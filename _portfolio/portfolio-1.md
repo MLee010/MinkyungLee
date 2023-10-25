@@ -1,13 +1,14 @@
 ---
-title: "Literacy-related work"
-excerpt: "Showcasing multiple files in one portfolio item.
+title: "Literacy-Related Work"
+excerpt: "A collection of my papers and documents focusing on literacy."
 collection: portfolio
 ---
 
-This is an item in your portfolio showcasing multiple files:
+Below are some of the key papers and documents related to my work on literacy:
 
-1. [Click here to view LangComparison](/files/14language.pdf)
-2. [Click here to view AffectiveVariables](/files/16AffectiveVs.pdf)
+1. [LangComparison](/files/14language.pdf) - A comparative analysis of different languages and their impact on literacy.
+2. [AffectiveVariables](/files/16AffectiveVs.pdf) - An exploration of the emotional and psychological factors affecting literacy.
 3. ... add more files as needed.
 
-Each file can have a brief description or context provided here as well.
+Feel free to browse and download any documents of interest.
+
