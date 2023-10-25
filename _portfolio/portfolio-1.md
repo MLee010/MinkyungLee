@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Literacy-related work"
+excerpt: "Showcasing multiple files in one portfolio item.<br/><a href='/files/language comparison.pdf'><img src='/images/pdf_icon.png' alt='PDF Icon for language comparison'></a> <a href='/files/interlanguage system.pdf'><img src='/images/pdf_icon.png' alt='PDF Icon for interlanguage system'></a>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is an item in your portfolio showcasing multiple files:
+
+1. [Click here to view language comparison](/files/language comparison.pdf)
+2. [Click here to view interlanguage system](/files/interlanguage system.pdf)
+3. ... add more files as needed.
+
+Each file can have a brief description or context provided here as well.
