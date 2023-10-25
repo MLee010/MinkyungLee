@@ -1,16 +1,16 @@
 ---
-title: "Cognitive and Social Network"
-excerpt: "A collection of my work related to cognitive networks(knowledge structure) and social networks."
+title: "Cognitive Structure"
+excerpt: KS measurement"
 collection: portfolio
 ---
 
-Below are some of the key papers and documents related to my work on literacy:
+These two studies were conducted to understand students' domestic knowledge structures, particularly with the table as a visual representation. 
 
-1. [Knowledge Structure](https://mlee010.github.io/MinkyungLee/files/19KS.pdf)
-2. [Knowledge Structure](https://mlee010.github.io/MinkyungLee/files/22KS.pdf)
-3. [Knowledge Convergence](https://mlee010.github.io/MinkyungLee/files/21KC.pdf)
-4. [Lexical Analysis](https://mlee010.github.io/MinkyungLee/files/21Lexical.pdf)
-5. [Sociogram Perception](https://mlee010.github.io/MinkyungLee/files/21Perception.pdf)
+1. [19AECT_Knowledge Structure](https://mlee010.github.io/MinkyungLee/files/19KS.pdf)
+The study explores how visual representations, specifically cross-classification tables, can aid in organizing and understanding information. Testing showed that this method improves comprehension, with post-test scores showing significant enhancements over pre-test results. The research highlights the effectiveness of visual tools like cross-classification tables in enhancing learning and memory retention.
+   
+2. [22ETR&D Knowledge Structure](https://mlee010.github.io/MinkyungLee/files/22KS.pdf) - Expanded from the 19 AECT Poster, submitted in February 2021
+This research delves into the influence of pre-established conceptual frameworks on shaping an individual's understanding. The study analyzed the effects of various information presentation methods on the participants' knowledge structures. After undergoing a knowledge structure (KS) assessment, participants engaged with specific text formats. The outcome highlighted that participants in the text group exhibited enhanced comprehension in subsequent tests. Furthermore, variations were observed in knowledge organization among collective groups and individual networks. These insights emphasize the significance of using external conceptual models to guide cognitive comprehension, hinting at their potential utility in pedagogical contexts.
 
 Feel free to browse and download any documents of interest.
 
