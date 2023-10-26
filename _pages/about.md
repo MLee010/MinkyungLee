@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello 👋 , Thank you for visiting my website!"
+title: "Hello 👋 , Welcome to my digital domain!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,12 +10,13 @@ redirect_from:
 
 
 
-I am a doctoral candidate in Learning Design and Technologies at Penn State University, with a research focus on collaborative knowledge construction within asynchronous online discussions. 
-
-
+Greetings! I'm Minkyung Lee, a doctoral candidate in Learning Design and Technologies at Penn State University. My research endeavors are rooted in understanding the nuances of literacy and knowledge structures, viewing them as foundational knowledge for individual comprehension and learning. As my academic journey unfolded, I became increasingly intrigued by how these foundational concepts intertwine and manifest within the expansive world of networked learning environments, giving rise to unique interactions and profound revelations.
 <img src="images/0virtualclass.png" alt="Virtual Class" style="float:right; margin-left:10px;" width="300px">
-In my professional journey, I have taken on various roles at prestigious institutions like Penn State University and Seoul National University. Within the role, I contributed significantly to projects spanning online learning methodologies, flipped classroom models, and MOOC design. Notably, I have been involved in many NSF-funded projects, evaluating and innovating in the realms of engineering education. The expertise in digital tools, including Python, R, SPSS, and NVivo, is reflective of a deep commitment to bridging the gap between technology and education. Beyond research, I have taught English in K-12 settings and designed courses at institutions. The expertise in digital tools, including Python, R, SPSS, and NVivo, is reflective of a deep commitment to bridging the gap between technology and education.
 
-<img src="images/1virtualclass.png" alt="Virtual Class" margin-left:10px;">
+In this digital portfolio, you'll discover a compendium of my scholarly works, each bearing evidence of my commitment to enriching both individual understanding and collective communication in diverse learning scenarios. Beyond these academic milestones, I cherish the ethos of continual learning and eagerly welcome collaborative opportunities and thought exchanges. I invite you to journey alongside me, navigating the complex interplay between literacy, knowledge structures, and the dynamics of connected learning spaces.
+
+
+
+
 
 
