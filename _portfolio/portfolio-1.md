@@ -10,7 +10,7 @@ The paper delves into phonological, morphological, and writing system difference
 2. [**Proficiency**](https://mlee010.github.io/MinkyungLee/files/14Proficiency.pdf) - An exploration of the notable increase in Korea's average TOEFL scores from 2006 to 2012.
 This research centers on students' English proficiency levels and their perceptions of English education in public schools. The results underline the success of Korea's shift to emphasizing communicative English skills and reveal interesting insights into students' self-confidence regarding their English capabilities.
 
-3. [**Affective_Variables**](https://mlee010.github.io/MinkyungLee/files/16affective.pdf) - A deep dive into the intricate interplay of emotional and psychological aspects influencing literacy.
+3. [**Affective_Variables**](https://mlee010.github.io/MinkyungLee/files/16affective.pdf) - An Investigation of the intricate interplay of emotional and psychological aspects influencing literacy.
 This work investigates the correlation between foreign language anxiety, core self-efficacy, and perceptions of the English language among Korean middle school students. The study unveils patterns in proficiency levels and shows that positive English perceptions can mitigate anxiety and bolster self-efficacy.
 
 
