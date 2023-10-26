@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Structure and Comprehension: Enhancing Understanding"
-excerpt: "Once we have foundational literacy, it's crucial to understand how individuals organize and comprehend information"
+excerpt: "Once we have foundational literacy, it's crucial to understand how individuals organize and comprehend information."
 collection: portfolio
 ---
 
