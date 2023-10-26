@@ -1,5 +1,5 @@
 ---
-title: "Cognitive Structure"
+title: "Knowledge Structure and Comprehension"
 excerpt: KS measurement"
 collection: portfolio
 ---
