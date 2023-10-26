@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Comprehension & Interaction in Learning"
+title                    : "Interaction & Comprehension in Learning"
 title_separator          : "-"
 name                     : &name "Minkyung Lee"
 description              : &description "Ph.D. Candidate in Learning and Performance Systems"
