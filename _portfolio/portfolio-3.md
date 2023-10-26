@@ -5,7 +5,6 @@ image: ![image](https://github.com/MLee010/MinkyungLee/assets/133421964/8fc653ef
 collection: portfolio
 ---
 
-### Key papers and documents related to my work on literacy:
 
 1. **[20AECT_SNA](https://mlee010.github.io/MinkyungLee/files/20SNA.pdf)**: This exploratory study explores online discussion forums to discern patterns based on metrics like directionality, centrality, and density, thereby offering insights into the evolution and influence of online networks on collaborative learning.
 
