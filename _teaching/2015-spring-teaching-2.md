@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "K-12, English"
-date: 2015-01-01
+date: 2009,2010,2011,2015,2016,2017
 location: "Seoul, Korea"
 ---
 
