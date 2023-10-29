@@ -5,7 +5,11 @@ type: "Undergraduate"
 permalink: /teaching/Course Design Experience
 ---
 
-# Penn State University
+A brief overview of my experience in course design across various universities.
+
+<!-- more -->
+
+## Penn State University
 **Location:** State College, PA  
 **Role:** Research-based Course Designer  
 **Course:** Introduction to Business Information Systems, World Campus  
@@ -14,7 +18,7 @@ permalink: /teaching/Course Design Experience
 
 ---
 
-# Hanyang University
+## Hanyang University
 **Location:** Seoul  
 **Role:** Course Design Assistant  
 **Course:** Korea in a Global Context, Center for Teaching and Learning  
