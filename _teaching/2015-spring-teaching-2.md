@@ -4,8 +4,8 @@ collection: teaching
 type: "School"
 permalink: /teaching/2015-spring-teaching-1
 venue: "K-12, English"
-date: 
-location: "Seoul, Korea"
+# date: 
+# location: 
 ---
 
 # Cheongwon Elementary School 
