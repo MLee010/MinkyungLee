@@ -4,10 +4,10 @@ collection: teaching
 type: "Undergraduate/Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Universities"
-date: 2014-01-01
-location: "Seoul, State College"
+# date: 2014-01-01
+# location: "Seoul, State College"
 ---
-
+<!-- more -->
 # Penn State University
 **Location:** State College, PA  
 **Role:** Teaching Assistant  
@@ -27,4 +27,3 @@ location: "Seoul, State College"
 - Assisted collaboratively designed engineering MOOC classrooms with Tokyo university.
 
 ---
-
