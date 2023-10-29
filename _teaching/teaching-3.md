@@ -4,7 +4,7 @@ collection: teaching
 # type: "Undergraduate"
 permalink: /teaching/Course Design Experience
 # venue: "Universities"
-date: "2016-2018/2021-2023"
+# date: "2016"
 location: "Seoul, State College"
 
 ---
