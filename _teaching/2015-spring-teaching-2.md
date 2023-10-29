@@ -8,14 +8,6 @@ venue: "K-12, English"
 # location: 
 ---
 
-# Cheongwon Elementary School 
-**English Instructor for Grade 5**  
-*Sep 2016- May 2017*
-- Focused on enhancing students' foundational English skills through interactive and engaging activities. 
-- Implemented creative lesson plans that catered to the diverse learning styles of fifth graders, promoting both linguistic and cultural understanding.
-
----
-
 # Daejin Woman’s High School  
 **English Instructor for Grade 11**  
 *Mar 2015- Feb 2016*
