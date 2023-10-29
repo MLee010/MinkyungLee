@@ -25,7 +25,7 @@ venue: "K-12, English"
 ---
 
 # Garak Middle School 
-**English Instructor for Grade 5**  
+**English Instructor for Grade 7**  
 *Mar 2009- Feb 2011*
 - Taught grammar, vocabulary expansion, and conversational fluency. 
 - Utilized multimedia resources and real-world contexts to make lessons relatable and to foster a genuine interest in the English language.
