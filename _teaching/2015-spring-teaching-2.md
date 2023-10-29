@@ -1,13 +1,13 @@
 ---
 title: "K-12 Teaching"
 collection: teaching
-type: "School"
+# type: "School"
 permalink: /teaching/2015-spring-teaching-1
 # venue: "K-12, English"
-# date: 
-# location: 
+# date: 2015
+# location: Seoul, Korea
 ---
-
+<!-- more -->
 # Daejin Woman’s High School  
 **English Instructor for Grade 11**  
 *Mar 2015- Feb 2016*
