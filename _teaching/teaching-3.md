@@ -1,8 +1,12 @@
 ---
 title: "Teaching Assistant & Course Design"
 collection: teaching
-type: "Undergraduate"
+# type: "Undergraduate"
 permalink: /teaching/Course Design Experience
+# venue: "Universities"
+# date: "2016-2018/2021-2023"
+# location: "Seoul, State College"
+
 ---
 
 A brief overview of my experience in course design across various universities.
