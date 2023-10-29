@@ -2,6 +2,11 @@
 title: "K-12 Teaching"
 collection: teaching
 permalink: /teaching/2015-spring-teaching-1
+# type: "Undergraduate/Graduate course"
+permalink: /teaching/2014-spring-teaching-1
+# venue: "Universities"
+date: "2009-2011/ 2015-2016"
+location: "Seoul"
 ---
 
 A brief overview of my K-12 teaching experiences.
