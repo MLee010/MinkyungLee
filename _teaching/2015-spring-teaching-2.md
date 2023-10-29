@@ -5,7 +5,7 @@ permalink: /teaching/2015-spring-teaching-1
 # type: "Undergraduate/Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 # venue: "Universities"
-date: "2009-2011/ 2015-2016"
+# date: "2019"
 location: "Seoul"
 ---
 
