@@ -4,8 +4,8 @@ collection: teaching
 # type: "School"
 permalink: /teaching/2015-spring-teaching-1
 # venue: "K-12, English"
-# date: 2015
-# location: Seoul, Korea
+# date: "2015"
+# location: "Seoul, Korea"
 ---
 <!-- more -->
 # Daejin Woman’s High School  
