@@ -1,7 +1,7 @@
 ---
 title: "K-12 Teaching"
 collection: teaching
-type: "Workshop"
+type: "School"
 permalink: /teaching/2015-spring-teaching-1
 venue: "K-12, English"
 date: 2009,2010,2011,2015,2016,2017
