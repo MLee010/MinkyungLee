@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Greetings 🖖,  Welcome to my digital domain!"
+title: "Greetings 🖖,  Welcome to my digital home!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
