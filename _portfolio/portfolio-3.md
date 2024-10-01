@@ -12,7 +12,9 @@ Starting with an exploration into the general structures of online discussions, 
 
 3. **[21AECT_Sociogram Perception](https://mlee010.github.io/MinkyungLee/files/21Perception.pdf)**: This research examines the elements of the Community of Inquiry (CoI) framework and their predictive capacity for overall course satisfaction.
 
-4. **[23AERA_Community Detection Algorithm](https://mlee010.github.io/MinkyungLee/files/23LA.pdf)**: This paper showcases a modularity optimization method for community detection in asynchronous online discussions. The research emphasizes the potential of this method for anticipating group effectiveness and its implications for group design and analysis.
+4. **[23AERA_Community Detection Algorithm](https://mlee010.github.io/MinkyungLee/files/AERA23_Louvain.pdf)**: This paper showcases a modularity optimization method for community detection in asynchronous online discussions. The research emphasizes the potential of this method for anticipating group effectiveness and its implications for group design and analysis.
 
+5. **[24AERA_Implementing Sociograms in Online Learning:
+Examining their Influences on Community of Inquiry Elements](https://mlee010.github.io/MinkyungLee/files/AERA24Sociogram.pdf)**: This paper showcases a modularity optimization method for community detection in asynchronous online discussions. The research emphasizes the potential of this method for anticipating group effectiveness and its implications for group design and analysis.
 
   
