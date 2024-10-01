@@ -8,9 +8,7 @@ Starting with an exploration into the general structures of online discussions, 
 
 1. **[20AECT_SNA](https://mlee010.github.io/MinkyungLee/files/20SNA.pdf)** - Investigates how individuals communicate within an online network, revealing patterns of interaction and influence. 
 
-2. **[21AECT_Knowledge Convergence](https://mlee010.github.io/MinkyungLee/files/21KC.pdf)** ([Proceedings](https://mlee010.github.io/MinkyungLee/files/21KCproceeding.pdf)),[21AECT_Lexical Analysis](https://mlee010.github.io/MinkyungLee/files/21Lexical.pdf): These studies explore the collective construction of knowledge, showing how individuals' understandings converge in collaborative settings. This study explores the impact of collaborative concept mapping on knowledge convergence. An analysis revealed the influence of prior individual map creation and group contingencies on collaborative knowledge construction.
-
-3. **[21AECT_Sociogram Perception](https://mlee010.github.io/MinkyungLee/files/21Perception.pdf)**: This research examines the elements of the Community of Inquiry (CoI) framework and their predictive capacity for overall course satisfaction.
+2. **[21AECT_Sociogram Perception](https://mlee010.github.io/MinkyungLee/files/21Perception.pdf)**: This research examines the elements of the Community of Inquiry (CoI) framework and their predictive capacity for overall course satisfaction.
 
 4. **[23AERA_Community Detection Algorithm](https://mlee010.github.io/MinkyungLee/files/AERA23_Louvain.pdf)**: This paper showcases a modularity optimization method for community detection in asynchronous online discussions. The research emphasizes the potential of this method for anticipating group effectiveness and its implications for group design and analysis.
 
