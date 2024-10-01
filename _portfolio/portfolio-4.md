@@ -15,7 +15,7 @@ I am currently leading four research:
 4. [**The impact of scripted roles on learner engagement with knowledge construction in asynchronous discussion: A comparative study of structured vs. unstructured collaborative learning**]
 : This study examines the impact of structured participant roles on collaborative learning in Computer Supported Collaborative Learning (CSCL) environments, based on Kirschner and Erkens' (2013) framework. It compares structured collaboration, where participants have predefined roles, with unstructured collaboration. The findings show that while overall network metrics, such as centrality and density, are similar across groups, structured roles enhance reciprocity and individual connectivity, promoting more mutual interactions. Roles like Moderators and Theoreticians were crucial in guiding discussions and integrating perspectives, highlighting the value of role-specific interventions for fostering collaborative learning. The study offers evidence-based insights for designing effective educational technologies (Dissertation).
 
-	
+5. [**Uncovering Qualitative Insights in Asynchronous Discussions: A Combined Network and Discourse Analysis of Student Engagement**] This is the expanded study of the study, Exploring Student Engagement through Social Learning Analytics: A Network Analysis of Asynchronous Discussions. The study additionally added detailed discourse analysis to understand the data in depth. This analysis will help uncover the qualitative aspects of communication that affect student engagement and resonance within the community. Investigating these aspects can provide a deeper understanding of how certain content characteristics influence the interaction dynamics. 	
 
 
   
