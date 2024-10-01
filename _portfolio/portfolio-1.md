@@ -1,6 +1,6 @@
 ---
 title: "L2 Learning"
-excerpt: "Understanding L2 learning processes through linguistic and affective factors."
+excerpt: "Understanding L2 learning through linguistic and affective factors."
 collection: portfolio
 ---
 
