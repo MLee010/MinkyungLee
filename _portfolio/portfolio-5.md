@@ -4,7 +4,7 @@ excerpt: Current research work is listed here.
 collection: portfolio
 ---
 
-I am currently leading four research:
+
 
 1. [**Applying a community detection algorithm to examine group formation in online discussions: Exploring Network Characteristics and Dynamics**](https://mlee010.github.io/MinkyungLee/files/Louvain_algorithm_24Fall.pdf): This study examines student interaction networks within an asynchronous discussion forum, focusing on whole group and subgroup dynamics identified through the Louvain algorithm. Analyzing 2,481 posts from 154 students across three sections of a communications course, the research highlights the role of network analysis in understanding and optimizing group interactions. The findings suggest that algorithmically detected groups exhibit strong internal communication, cohesiveness, and collaborative potential, offering insights to improve educational design, student engagement, and collaborative learning in online environments.
 
