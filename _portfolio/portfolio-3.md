@@ -1,5 +1,5 @@
 ---
-title: "Network Analysis of asynchronous discussion"
+title: "Network Analysis of Asynchronous Discussion"
 excerpt: "Individual learning processes are eventually manifest in social and collaborative environments. Network analysis provides a lens to examine these processes on a collective scale. This collection explores the multifaceted dimensions of network analysis." 
 collection: portfolio
 ---
