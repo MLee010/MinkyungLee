@@ -8,7 +8,7 @@ Starting with an exploration into the general structures of online discussions, 
 
 1. **[20AECT_SNA](https://mlee010.github.io/MinkyungLee/files/20SNA.pdf)** - Investigates how individuals communicate within an online network, revealing patterns of interaction and influence. 
 
-2. **[21AECT_Sociogram Perception](https://mlee010.github.io/MinkyungLee/files/21Perception.pdf)**: This research examines the elements of the Community of Inquiry (CoI) framework and their predictive capacity for overall course satisfaction.
+2. **[21AECT_Exploring the Role of Teaching and Cognitive Presence in Predicting Course Satisfaction within the Community of Inquiry Framework](https://mlee010.github.io/MinkyungLee/files/21Perception.pdf)**: This study examines the relationships between the elements of the CoI framework —teaching presence (TP), cognitive presence (CP), and social presence (SP)—and their ability to predict course satisfaction. Results show that TP and CP together explain 80% of course satisfaction, with TP alone accounting for 65%. While TP had the strongest influence, CP and SP had mixed outcomes. Future research will address limitations like multicollinearity and small sample size, and explore the model with more data using Structural Equation Modeling.
 
 4. **[23AERA_Community Detection Algorithm](https://mlee010.github.io/MinkyungLee/files/AERA23_Louvain.pdf)**: This paper showcases a modularity optimization method for community detection in asynchronous online discussions. The research emphasizes the potential of this method for anticipating group effectiveness and its implications for group design and analysis.
 
