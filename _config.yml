@@ -178,6 +178,8 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+    exclude:
+      - 2014-spring-teaching-1.md 
   publications:
     output: true
     permalink: /:collection/:path/
