@@ -6,7 +6,7 @@
 #permalink: /teaching/2014-spring-teaching-1
 # venue: "Universities"
 # date: "2019"
-location: "Seoul"
+#location: "Seoul"
 ---
 
 <!-- more -->
