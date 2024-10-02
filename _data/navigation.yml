@@ -8,6 +8,8 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+    exclude:
+      - 2014-spring-teaching-1.md 
     
 #  - title: "Portfolio"
 #    url: /portfolio/
