@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Minkyung Lee, a doctoral candidate in Learning Design and Technologies at Penn State University. My research endeavors are rooted in understanding the different aspects of literacy and knowledge structures, viewing them as foundational knowledge for individual comprehension and learning. As my academic journey unfolded, I became increasingly intrigued by how these foundational concepts intertwine and manifest within the expansive world of networked learning environments, giving rise to unique interactions and profound revelations.
+I'm Minkyung Lee, a recent Ph.D. graduate in Learning Design and Technology from Penn State University. My research centers on understanding the cognitive and social aspects of learning, with a focus on collaborative and networked environments. I have explored how structured roles, group dynamics, and interaction patterns influence knowledge construction and learner engagement, using methods such as Social Network Analysis and Machine Learning.
 
-<img src="images/0virtualclass.png" alt="Virtual Class" style="float:right; margin-left:10px;" width="300px">In this digital portfolio, you'll see a compendium of my academic works, each bearing evidence of my commitment to enriching both individual understanding and collective interaction in diverse learning scenarios. Beyond these academic works, I cherish the ethos of continual learning and eagerly welcome collaborative opportunities and thought exchanges. I invite you to journey alongside me, navigating the complex interplay between literacy, knowledge structures, and the dynamics of connected learning spaces.
+<img src="images/0virtualclass.png" alt="Virtual Class" style="float:right; margin-left:10px;" width="300px">
+This digital portfolio presents my academic work, including studies that examine how learners interact and build knowledge in diverse educational contexts. My goal has always been to connect research findings to practical strategies that enhance learning experiences for individuals and groups.
 
+I value collaboration and thoughtful discussions that deepen our understanding of how people learn and interact. I invite you to browse my portfolio and learn more about my work in the fields of collaborative learning, knowledge construction, and educational technology.
