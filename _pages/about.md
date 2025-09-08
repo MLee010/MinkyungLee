@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Greetings 🖖,  Welcome to my digital home!"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm Minkyung Lee, a recent Ph.D. graduate in Learning Design and Technology from Penn State University. My research centers on understanding the cognitive and social aspects of learning, with a focus on collaborative and networked environments. I have explored how structured roles, group dynamics, and interaction patterns influence knowledge construction and learner engagement, using methods such as Social Network Analysis and Machine Learning.
+I’m Minkyung Lee, a Ph.D. graduate in Learning Design and Technology from Penn State University. My research investigates the cognitive and social dimensions of learning, with a particular focus on collaborative and networked environments. I study how structured roles, group dynamics, and patterns of interaction shape knowledge construction and learner engagement, drawing on methods such as Social Network Analysis and Machine Learning.
 
-<img src="images/0virtualclass.png" alt="Virtual Class" style="float:right; margin-left:10px;" width="300px">
+This portfolio highlights my academic work and publications, which connect empirical research to practical strategies for enhancing learning in higher education and digital learning contexts.
 
-This digital portfolio presents my academic work, including studies that examine how learners interact and build knowledge in diverse educational contexts. My goal has always been to connect research findings to practical strategies that enhance learning experiences for individuals and groups.
+I am especially interested in how data-informed insights can guide instructional design, improve student engagement, and create more equitable learning environments.
 
-I value collaboration and thoughtful discussions that deepen our understanding of how people learn and interact. I invite you to browse my portfolio and learn more about my work in the fields of collaborative learning, knowledge construction, and educational technology.
+Thank you for visiting!
