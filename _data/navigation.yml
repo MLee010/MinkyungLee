@@ -3,12 +3,15 @@ main:
   - title: "CV"
     url: /files/MINKYUNG LEE_CV_Summer25.pdf
 
-  - title: "Research"
-    url: /portfolio/    
-
   - title: "Teaching"
     url: /teaching/    
-    
+ 
+  - title: "Publications"
+    url: /research/publications/
+ 
+  - title: "Presentations"
+    url: /research/presentations/
+ 
 #  - title: "Portfolio"
 #    url: /portfolio/
         
