@@ -19,7 +19,7 @@ permalink: /research/publications/
 - **Lee, M.**, & Bhati, D. (under review). *Making dropout risk transparent…* *International Journal of Educational Technology in Higher Education.*
 - **Lee, M.**, Sharma, P., & Clariana, R. (under review). *Which roles bridge, centralize, or synthesize collaboration…* *Learning and Instruction.*
 - **Lee, M.**, Sharma, P., & Clariana, R. (under review). *When does structure matter?* *Internet and Higher Education.*
-- **Lee, M.** (under review). *Predicting assigned roles and knowledge-construction processes…* *Educational Technology Research and Development.*
+- **Lee, M.**, Sharma, P., & Clariana, R. (under review). *Predicting assigned roles and knowledge-construction processes…* *Educational Technology Research and Development.*
 
 ## Book / Guidebook
 - Jeong, J., & **Lee, M.** (2017). *Hanyang MOOC Flipped Learning Guidebook.* Hanyang University, Seoul.
