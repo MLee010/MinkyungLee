@@ -5,7 +5,7 @@ permalink: /research/publications/
 ---
 
 ## Peer-Reviewed Journal Articles
-- **Lee, M.**, & Sharma, P. (in press). *Beyond posting frequency: How network metrics and textual readability relate to engagement in online discussion.* *Interactive Learning Environment (Q1) *. [DOI](http://dx.doi.org/10.1080/10494820.2025.2550035)
+- **Lee, M.**, & Sharma, P. (2025). *Beyond posting frequency: How network metrics and textual readability relate to engagement in online discussion.* *Interactive Learning Environment (Q1) *. [DOI]
 **[25Network structure and communication clarity](https://mlee010.github.io/MinkyungLee/files/SNA_SLA06302025watermark.pdf)**
 - **Lee, M.**, & Sharma, P. (2024). *Applying a community detection algorithm to examine group formation in online discussions.* *International Journal of Educational Technology in Higher Education (Q1).* [DOI](https://doi.org/10.1186/s41239-024-00495-w)
 - Xia, Y., Cutler, S., Osunbunmi, I., Zappe, S. E., Gomez, E., Velegol, S., & **Lee, M.** (2024). *The impact of applied improvisation on undergraduate engineering students’ professional development.* *Advances in Engineering Education.* [DOI](https://doi.org/10.18260/3-1-1153-36069)
