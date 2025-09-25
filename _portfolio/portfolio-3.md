@@ -16,7 +16,7 @@ tags: [learning-analytics, SNA, community-detection, readability]
 - Slides: [AERA 2023](https://mlee010.github.io/MinkyungLee/files/AERA23_Louvain.pdf)
 - Sharma & Lee (in revision). *Quality of student cognitive engagement across different levels of social engagement.* **Education and Information Technologies**
 
-<details><summary>Methods (click)</summary>
+<details open><summary>Methods</summary>
 - SNA: indegree/outdegree, betweenness, eigenvector, clustering; **Louvain** for community detection  
 - Text features (readability paper only): Flesch, FKGL, Gunning Fog, SMOG  
 - Role: study design, analysis, writing
