@@ -1,52 +1,55 @@
 ---
-title: "Social Network Analysis in Online Learning — Method Development Series"
+title: "Social Network Analysis in Online Learning — Method-focused line"
 collection: portfolio
-permalink: /portfolio/sna-pilots/
-excerpt: "A method-development series using SNA (and, in one line of work, textual features) to study interaction and engagement in online discussion."
+permalink: /portfolio/sna-methods/
+excerpt: "Applying established SNA techniques—sometimes alongside text features—to study interaction and engagement in online discussion."
 thumbnail: images/sna_readability_thumb.png
 order: 2
-tags: [learning-analytics, sna, community-detection, readability, aera, ijhethe, ile]
+tags: [learning-analytics, SNA, community-detection, readability]
 ---
 
-**Scope (2021–2024).** A method-development series establishing practical ways to:
-- **Strand A — SNA-only:** detect emergent subgroups and examine cohesion using **Louvain/community detection** and local/global network metrics.
-- **Strand B — SNA + textual features:** relate **network positions** to **text accessibility/readability** and engagement patterns.
-
-> Note: “Pilot” refers here to *developing and validating the analytic approach*, not a small feasibility test.
+**Scope (2021–2024).** This line of work applies **established social network analysis** to course-scale discussion data and, in one study, adds a **readability** perspective. The contribution is a **slightly different lens** on familiar techniques—using community detection to interpret emergent groups and linking basic text accessibility to network positions and engagement.
 
 **Key papers**
-- **Strand B (SNA + textual features):** *Beyond posting frequency: how network metrics and textual readability relate to engagement in online discussion.*  
-  *Interactive Learning Environments* (2025). [DOI](http://dx.doi.org/10.1080/10494820.2025.2550035)  :contentReference[oaicite:0]{index=0}
-- **Strand A (SNA-only: Louvain/community detection):** *Leveraging the Louvain algorithm for enhanced group formation and collaboration in online learning environments.*  
-  *International Journal of Educational Technology in Higher Education* (2024). [DOI](https://doi.org/10.1186/s41239-024-00495-w)  :contentReference[oaicite:1]{index=1}
-- **Related (in revision):** Sharma & Lee. *Quality of student cognitive engagement across different levels of social engagement.*
+- *Beyond posting frequency: how network metrics and textual readability relate to engagement in online discussion.* **Interactive Learning Environments** (2025). [DOI](http://dx.doi.org/10.1080/10494820.2025.2550035)
+- *Applying a community detection algorithm to examine group formation in online discussions.* **International Journal of Educational Technology in Higher Education** (2024). [DOI](https://doi.org/10.1186/s41239-024-00495-w)
+- Slides: [AERA 2023](https://mlee010.github.io/MinkyungLee/files/AERA23_Louvain.pdf)
+- Sharma & Lee (in revision). *Quality of student cognitive engagement across different levels of social engagement.* **Education and Information Technologies**
 
 <details><summary>Methods (click)</summary>
-**Global & local SNA:** density, centralization, clustering; community detection via **Louvain**; local cohesion (within-group density, triangles, clustering).  
-**Text features (Strand B only):** readability indices (Flesch, FKGL, Gunning Fog, SMOG).  
-**Role:** design, analysis, writing.
+- SNA: indegree/outdegree, betweenness, eigenvector, clustering; **Louvain** for community detection  
+- Text features (readability paper only): Flesch, FKGL, Gunning Fog, SMOG  
+- Role: study design, analysis, writing
 </details>
 
+**Open materials**
+- Slides: [AERA 2023](https://mlee010.github.io/MinkyungLee/files/AERA23_Louvain.pdf)
+
+**Related / adjacent (CoI & sociograms)**
+- Lee & Clariana (in revision). *Implementing sociograms in online learning: examining their influence on Community of Inquiry elements.* **Learning Environments Research** — Slides: [AERA 2024](https://mlee010.github.io/MinkyungLee/files/AERA24Sociogram.pdf)
+- CoI perceptions: [AECT 2021](https://mlee010.github.io/MinkyungLee/files/21Perception.pdf)
+
+### Summary of Studies
+**Beyond posting frequency: how network metrics and textual readability relate to engagement in online discussion**  
+*Interactive Learning Environments (2025)*
+- **Goal:** Examine whether students’ network positions and the readability of their posts relate to subsequent engagement (replies/attention).
+- **Approach:** Computed common SNA metrics (e.g., indegree, betweenness, eigenvector) and basic readability indices (e.g., Flesch, FKGL) from course discussion data.
+- **Main finding:** Network position was consistently associated with engagement; readability showed smaller but meaningful associations in certain contexts.
+- **Takeaway:** Simple structural and text features can offer instructors a practical view of where participation concentrates and how message clarity might matter.
+
+**Applying a community detection algorithm to examine group formation in online discussions**  
+*International Journal of Educational Technology in Higher Education (2024)*
+- **Goal:** Identify natural subgroups in course discussions and describe how those subgroups communicate.
+- **Approach:** Used the Louvain method to detect communities; compared within-group cohesion and between-group interaction using standard network measures.
+- **Main finding:** Detected groups showed coherent internal communication patterns; subgroup structure aligned with how students actually interacted over time.
+- **Takeaway:** Community detection provides a readable map of collaboration that can inform group support, moderation, or activity design.
 ---
 
-### Open materials & slides
-- **Louvain / community detection** — Paper PDF & slides  
-  Paper (IJETHE, 2024): [PDF](https://mlee010.github.io/MinkyungLee/files/41239_2024_495_OnlinePDF.pdf)  
-  Slides: [23AERA — Community Detection Algorithm](https://mlee010.github.io/MinkyungLee/files/AERA23_Louvain.pdf)
+### Overall contribution of this line
+- Uses established SNA tools (and, in one study, readability indices) to look at online discussion from a slightly different angle.
+- Shows how **who-talks-to-whom** and **how messages read** can be combined (or examined separately) to describe participation patterns without complex pipelines.
+- Offers practical signals (e.g., subgroup cohesion, central participants, message clarity) that can guide facilitation and course adjustments.
 
-- **SNA + readability** — add preprint or slides when ready
-
----
-
-### Related / adjacent works (CoI & sociograms)
-Use a CoI lens to interpret perceptions while still connecting to network visuals.
-
-- Lee & Clariana (in revision). *Implementing sociograms in online learning: examining their influence on Community of Inquiry elements.* *Learning Environments Research*.  
-  Slides: [24AERA — Sociograms & CoI](https://mlee010.github.io/MinkyungLee/files/AERA24Sociogram.pdf)
-- **CoI perceptions:** [21AECT — Teaching/Cognitive Presence & satisfaction](https://mlee010.github.io/MinkyungLee/files/21Perception.pdf)
-
----
-
-### One-paragraph overview
-Across course-scale discussion networks, **Strand A** shows that Louvain-identified subgroups display cohesive internal communication and stable interaction patterns useful for understanding collaboration at scale. **Strand B** links **network positions** with **text accessibility**, indicating that clearer writing often aligns with more central positions and broader engagement. Together, these strands provide practical analytics for interpreting participation and informing course design.
-  
+### Notes & scope
+- These studies focus on **description and association**, not causal claims.
+- Results may vary by course design, topic, and assessment practices; replication in new contexts is encouraged.
