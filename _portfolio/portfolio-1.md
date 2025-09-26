@@ -1,12 +1,14 @@
 ---
-title: "Knowledge Structures & Concept Mapping(2018-2022)"
+title: "Knowledge Structures & Concept Mapping (2018–2022)"
 collection: portfolio
 permalink: /portfolio/knowledge-structures/
 excerpt: "Foundational work on how external concept structures shape individual knowledge and collaborative mapping."
-thumbnail: images/KS22_11423_2022_10144_Fig7_HTML.webp
+header:
+  teaser: /images/KS22_11423_2022_10144_Fig7_HTML.webp
 order: 1
 tags: [knowledge-structures, concept structural maps]
 ---
+
 
 **Focus (2018–2022).** Early Ph.D. work examining how externally provided concept structures influence individual understanding and collaborative maps.
 
