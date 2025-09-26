@@ -7,8 +7,7 @@ order: 1
 tags: [knowledge-structures, concept structural maps]
 ---
 
-
-**Focus (2018–2022).** Early Ph.D. work examining how externally provided concept structures influence individual understanding and collaborative maps.
+Early Ph.D. work examining how externally provided concept structures influence individual understanding and collaborative maps.
 
 **Publication**
 - **The influence of external concept structures on an individual’s knowledge structures.** *ETR&D* (2022). [DOI](http://dx.doi.org/10.1007/s11423-022-10144-6)
