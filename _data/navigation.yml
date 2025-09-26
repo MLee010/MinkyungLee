@@ -12,8 +12,8 @@ main:
   - title: "Presentations"
     url: /research/presentations/
  
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
 # - title: "Blog Posts"
 #   url: /year-archive/
