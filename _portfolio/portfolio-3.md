@@ -29,7 +29,7 @@ This research line investigates how **scripted roles** influence social connecti
   **International Journal of Computer-Supported Collaborative Learning (IJCSCL)**  
   – Maps each role (Moderator, Summarizer, Skeptic, Source Searcher, Theoretician) to distinct network positions and cognitive processes.
 
-![Role-based engagement and metrics]({{ '/images/DS2_role_image.png' | absolute_url }})
+![Role-based engagement and metrics](https://mlee010.github.io/MinkyungLee/images/DS2_role_image.png)
 
 ---
 
@@ -37,7 +37,7 @@ This research line investigates how **scripted roles** influence social connecti
   **Educational Technology Research & Development (ETR&D)** – post-dissertation extension  
   – Uses lightweight lexical features to predict roles (macro-F1 ≈ 0.86) and knowledge-construction processes (macro-F1 ≈ 0.82).
 
-![Machine learning performance metrics]({{ '/images/DS3_MLimage.png' | absolute_url }})
+![Machine learning performance metrics](https://mlee010.github.io/MinkyungLee/images/DS3_MLimage.png)
 
 ---
 
