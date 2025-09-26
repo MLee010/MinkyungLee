@@ -1,21 +1,20 @@
 ---
-title: "Current Research Overview"
-excerpt: Current research work is listed here.
+title: "Institutional Learning Analytics & Student Success"
 collection: portfolio
+permalink: /portfolio/institutional-analytics/
+excerpt: "Temporal modeling and machine learning on UHD institutional datasets."
+thumbnail: images/dropout_dashboard_thumb.png
+order: 5
+tags: [HMM, sequence analysis, student success]
 ---
 
+**Current (2025–).** Applying temporal modeling and ML to multi-semester datasets.
 
+- **Lee & Bhati** (under review). *Early signals of undergraduate attrition: mapping first-year academic, financial, and support patterns in an urban public university.* **Higher Education**.
 
-1. **The impact of scripted roles on learner engagement with knowledge construction in asynchronous discussion: A comparative study of structured vs. unstructured collaborative learning (Dissertation)**: This study examines the impact of structured participant roles on collaborative learning in Computer Supported Collaborative Learning (CSCL) environments, based on Kirschner and Erkens' (2013) framework. It compares structured collaboration, where participants have predefined roles, with unstructured collaboration. The findings show that while overall network metrics, such as centrality and density, are similar across groups, structured roles enhance reciprocity and individual connectivity, promoting more mutual interactions. Roles like Moderators and Theoreticians were crucial in guiding discussions and integrating perspectives, highlighting the value of role-specific interventions for fostering collaborative learning. The study offers evidence-based insights for designing effective educational technologies.
-
-2. [**Assessing Sociograms’ Role in Enhancing Engagement in Online Learning(in review)**](https://mlee010.github.io/MinkyungLee/files/Sociogram_24FAll.pdf): This study explores the impact of sociograms as instructional tools in online learning communities through the Community of Inquiry framework. Using a mixed methods design, the research combines survey data and open-ended responses to assess students' perceptions. Results show moderate familiarity with sociograms and their perceived benefits for learning and community building. Key themes include barriers, usefulness, engagement, community dynamics, and self-reflection. While students acknowledge sociograms' potential for fostering connectedness, doubts remain about their ability to significantly influence participation. The study emphasizes the need for clear integration and support to enhance their effectiveness in online learning.
-
-3. [**Exploring Student Engagement through Social Learning Analytics: A Network Analysis of Asynchronous Discussions(in review)**](https://mlee010.github.io/MinkyungLee/files/network_interaction_24Fall.pdf): This study investigates the network dynamics of asynchronous discussions to understand why certain students receive more responses, using Social Learning Analytics with a focus on network analysis. Data from 38 students in online business courses was analyzed using centrality measures such as indegree, outdegree, eigenvector, betweenness, and closeness. ANOVA revealed significant differences, especially in indegree and eigenvector centralities, with high scores correlating with greater engagement. However, a higher outdegree did not lead to more responses, indicating that quality, not quantity, drives peer engagement. The study highlights the need for educators to foster meaningful interactions and leverage network metrics to enhance online learning environments. Limitations and suggestions for future research, including discourse analysis, are also discussed.
-
-4. **Uncovering Qualitative Insights in Asynchronous Discussions: A Combined Network and Discourse Analysis of Student Engagement**: This is the expanded study of the study, Exploring Student Engagement through Social Learning Analytics: A Network Analysis of Asynchronous Discussions. The study additionally added detailed discourse analysis to understand the data in depth. This analysis will help uncover the qualitative aspects of communication that affect student engagement and resonance within the community. Investigating these aspects can provide a deeper understanding of how certain content characteristics influence the interaction dynamics.
-  
-5. [**Predicting Roles and Knowledge Construction Processes in Asynchronous Discussion Using
-Machine Learning**](https://mlee010.github.io/MinkyungLee/files/ML_2024_AERA.pdf): This study applies Machine Learning (ML) to predict participant roles and knowledge construction processes in asynchronous discussions. Using textual data from structured and unstructured group discussions, roles like Summarizer, Skeptic, and Theoretician were accurately predicted, along with knowledge processes such as Externalization and Conflict Consensus. The findings highlight ML’s potential to identify participant roles and interaction patterns, offering insights for designing more effective collaborative learning environments. Implications include the development of intelligent systems to enhance real-time collaboration by reinforcing productive roles and interactions. Limitations and future research directions are discussed.
+**Highlights**
+- ~50,000 students; 127 variables.  
+- HMM & sequence models for early dropout risk; supports interventions and grants.
 
 
 
