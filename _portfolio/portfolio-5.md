@@ -11,6 +11,7 @@ tags: [HMM, sequence analysis, student success]
 **Current (2025–).** Applying temporal modeling and ML to multi-semester datasets.
 
 - **Lee & Bhati** (under review). *Early signals of undergraduate attrition: mapping first-year academic, financial, and support patterns in an urban public university.* **Higher Education**.
+
 ![Higher Education analysis overview](/images/HigherEd_image.png)
 
 ![Additional visualization](/images/HigherEd_image2.png)
