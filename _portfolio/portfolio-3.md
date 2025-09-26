@@ -11,9 +11,7 @@ classes: wide
 ---
 
 ## Overview
-This research line investigates how **scripted roles** influence social connectivity and knowledge construction in asynchronous online courses.  
-Using **social network analysis (SNA)** and **content analysis (CA)**, the studies connect *who interacts with whom* to *how ideas are built*.  
-After the dissertation was completed, the work was extended with a machine-learning study that predicts roles and knowledge-construction processes directly from discussion text.
+This research line investigates how **scripted roles** influence social connectivity and knowledge construction in asynchronous online courses.  Using **social network analysis (SNA)** and **content analysis (CA)**, the studies connect *who interacts with whom* to *how ideas are built*.  After the dissertation was completed, the work was extended with a machine-learning study that predicts roles and knowledge-construction processes directly from discussion text.
 
 ---
 
