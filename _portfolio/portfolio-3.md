@@ -21,7 +21,7 @@ This research line investigates how **scripted roles** influence social connecti
   **Internet and Higher Education**  
   – Compares structured (role-assigned) and unstructured groups, revealing differences in reciprocity and patterns of elicitation and integration.
 
-![Reciprocity comparison](/images/DS1_reciprocity_image.png)
+![Reciprocity comparison]({{ '/images/DS1_reciprocity_image.png' | absolute_url }})
 
 ---
 
@@ -29,7 +29,7 @@ This research line investigates how **scripted roles** influence social connecti
   **International Journal of Computer-Supported Collaborative Learning (IJCSCL)**  
   – Maps each role (Moderator, Summarizer, Skeptic, Source Searcher, Theoretician) to distinct network positions and cognitive processes.
 
-![Role-based engagement and metrics](/images/DS2_role_image.png)
+![Role-based engagement and metrics]({{ '/images/DS2_role_image.png' | absolute_url }})
 
 ---
 
@@ -37,7 +37,7 @@ This research line investigates how **scripted roles** influence social connecti
   **Educational Technology Research & Development (ETR&D)** – post-dissertation extension  
   – Uses lightweight lexical features to predict roles (macro-F1 ≈ 0.86) and knowledge-construction processes (macro-F1 ≈ 0.82).
 
-![Machine learning performance metrics](/images/DS3_MLimage.png)
+![Machine learning performance metrics]({{ '/images/DS3_MLimage.png' | absolute_url }})
 
 ---
 
