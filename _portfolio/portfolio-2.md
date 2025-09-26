@@ -9,16 +9,15 @@ tags: [learning-analytics, SNA, Louvain(community-detection), readability]
 ---
 
 
-
-**Scope (2021–2024).** A method-development series establishing practical ways to:
+A method-development series establishing practical ways to:
 - **Strand A — SNA-only:** detect emergent subgroups and examine cohesion using **Louvain/community detection** and local/global network metrics.
 - **Strand B — SNA + textual features:** relate **network positions** to **text accessibility/readability** and engagement patterns.
 
 > Note: “Pilot” refers here to *developing and validating the analytic approach*, not a feasibility test.
 
-**Key papers**
+**Publications**
 - **Strand B (SNA + textual features):** *Beyond posting frequency: how network metrics and textual readability relate to engagement in online discussion.*  
-  *Interactive Learning Environments* (2025). [DOI](http://dx.doi.org/10.1080/10494820.2025.2550035)  :contentReference[oaicite:0]{index=0}
+  *Interactive Learning Environments* (2025). [DOI](http://dx.doi.org/10.1080/10494820.2025.2550035)
 - **Strand A (SNA-only: Louvain/community detection):** *Leveraging the Louvain algorithm for enhanced group formation and collaboration in online learning environments.*  
   *International Journal of Educational Technology in Higher Education* (2024). [DOI](https://doi.org/10.1186/s41239-024-00495-w)
   
