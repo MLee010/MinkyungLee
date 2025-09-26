@@ -17,8 +17,8 @@ This research line investigates how **scripted roles** influence social connecti
 
 ## Papers (under review)
 
-- *When does structure matter? Social and cognitive outcomes in role-assigned vs. organic groups.*  
-  **Internet and Higher Education**  
+- **When does structure matter? Social and cognitive outcomes in role-assigned vs. organic groups.**  
+  *Internet and Higher Education* 
   – Compares structured (role-assigned) and unstructured groups, revealing differences in reciprocity and patterns of elicitation and integration.
 
 <p><img src="https://mlee010.github.io/MinkyungLee/images/DS1_reciprocity_image.png"
@@ -27,8 +27,8 @@ This research line investigates how **scripted roles** influence social connecti
 
 ---
 
-- *Which roles bridge, centralize, or synthesize collaboration in online courses?*  
-  **International Journal of Computer-Supported Collaborative Learning (IJCSCL)**  
+- **Which roles bridge, centralize, or synthesize collaboration in online courses?** 
+  *International Journal of Computer-Supported Collaborative Learning (IJCSCL)*  
   – Maps each role (Moderator, Summarizer, Skeptic, Source Searcher, Theoretician) to distinct network positions and cognitive processes.
 
 <p><img src="https://mlee010.github.io/MinkyungLee/images/DS2_role_image.png"
@@ -37,8 +37,8 @@ This research line investigates how **scripted roles** influence social connecti
 
 ---
 
-- *Predicting assigned roles and knowledge-construction processes in asynchronous discussion.*  
-  **Educational Technology Research & Development (ETR&D)** – post-dissertation extension  
+- **Predicting assigned roles and knowledge-construction processes in asynchronous discussion.**  
+  *Educational Technology Research & Development (ETR&D)* – post-dissertation extension  
   – Uses lightweight lexical features to predict roles (macro-F1 ≈ 0.86) and knowledge-construction processes (macro-F1 ≈ 0.82).
 
 <p><img src="https://mlee010.github.io/MinkyungLee/images/DS3_MLimage.png"
