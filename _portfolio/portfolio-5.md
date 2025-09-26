@@ -1,5 +1,5 @@
 ---
-title: "Institutional Learning Analytics & Student Success"
+title: "Institutional Learning Analytics & Student Success(2025–)"
 collection: portfolio
 permalink: /portfolio/institutional-analytics/
 excerpt: "Temporal modeling and machine learning on UHD institutional datasets."
