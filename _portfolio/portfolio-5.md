@@ -16,9 +16,9 @@ tags: [HMM, sequence analysis, student success]
 
 ![Additional visualization](/images/HigherEd_image2.png)
 
-**Highlights**
-- ~50,000 students; 127 variables.  
-- HMM & sequence models for early dropout risk; supports interventions and grants.
+-This study examined how early‐semester academic, financial, and support indicators signal dropout risk in an urban public university.
+Across five undergraduate cohorts (2019–2024, ~23,000 students), students who eventually dropped out already showed lower GPAs, lighter course loads, and lower support use at entry, and the combination of GPA decline and credit loss in the second semester emerged as the strongest predictor of attrition.
+
 
 
 
