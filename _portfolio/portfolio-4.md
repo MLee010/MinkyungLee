@@ -1,20 +1,44 @@
 ---
 title: "Instructional Design and Technology in Engineering Education"
-excerpt: "These studies underscore the critical role of integrating innovative instructional approaches to meet the evolving demands of engineering education. By fostering collaboration, leveraging technology, and aligning with student preferences, these approaches can lead to more effective and engaging learning environments for future engineers."
-
 collection: portfolio
+permalink: /portfolio/engineering-education/
+excerpt: "Collaborative studies on virtual reality (VR) and active learning in engineering courses."
+thumbnail: /images/vr_course_thumb.png
+order: 4
+tags: [engineering education, VR, active learning]
+layout: single
+classes: wide
 ---
 
+## Collaborations (2023–2024)
+Projects integrating **virtual reality (VR)** and other active-learning approaches into engineering courses, combining quantitative and qualitative analyses.
 
-1. [**The impact of applied improvisation on undergraduate engineering students’ professional development**](https://mlee010.github.io/MinkyungLee/files/Xia24_improv.pdf) - This study explores the impact of integrating an improvisation (improv) workshop into a summer Research Experiences for Undergraduates (REU) program. Using a convergent mixed-method design, the study assessed the effects of improv on the professional development of engineering students. Results showed significant improvements in communication skills, growth mindset, and collaborative research abilities. However, there was no notable improvement in creativity. The findings suggest that incorporating improv activities into undergraduate research programs and engineering courses can enhance key professional skills and is recommended for broader implementation.
+### Active Learning Preferences
+**Lee**, Cutler, Zappe, Spiegel, Osunbunmi (2024).  
+*Student preferences and performance in active learning online environments.* **ASEE**  
+[DOI](https://doi.org/10.18260/1-2--48018)  
+Examined relationships between students’ instructional mode preferences and course performance across statistics, material jetting, and Python modules. VR was favored for some subjects while self-study aligned with higher performance in others.
 
-2. [**Student Preferences and Performance in Active Learning Online Environments**](https://mlee010.github.io/MinkyungLee/files/student-preferences-and-performance-in-active-learning-online-environments.pdf) - This study examines the relationship between students’ instructional mode preferences and academic performance in online engineering modules. Using a ranking-based survey, participants evaluated four modes—traditional, self-study, game-based learning, and virtual reality (VR)—across three subjects: statistics, material jetting, and Python programming. Results showed that preferences varied by subject, with VR favored in Python and Statistics, and self-study preferred in Material Jetting. Correlations indicated that self-study was linked to higher performance in some subjects. These findings emphasize the need to align instructional design with student preferences to enhance learning outcomes.
+### Applied Improvisation
+Xia, Cutler, Osunbunmi, Zappe, Gomez, Velegol, **Lee** (2024).  
+*The impact of applied improvisation on undergraduate engineering students’ professional development.* **Advances in Engineering Education**  
+[DOI](https://doi.org/10.18260/3-1-1153-36069)  
+Assessed an improvisation workshop within a summer Research Experiences for Undergraduates (REU) program. Participants reported stronger communication skills, growth mindset, and collaboration.
 
-3. VR Application for a Machine Design Course
-   Quantitative study - [**Designing and Evaluating Virtual Reality Applications for a Machine Design Course**](https://mlee010.github.io/MinkyungLee/files/designing-and-evaluating-virtual-reality-applications-for-a-machine-design-course) - This study examines the use of virtual reality (VR) in a Machine Design course at Penn State University to enhance student engagement and learning. The Shifting Gears VR application allowed students to interact with gears, shafts, and bearings in an immersive environment. A pre-post design compared the impact of VR combined with traditional methods (VRTIM) to traditional methods alone (TIM). Results showed significant improvements in student knowledge, confidence, and engagement when VR was used. These findings highlight VR's potential to enhance engineering education by providing interactive, practical learning experiences.
+### Virtual Reality for Machine Design
+**Quantitative study** – Gregg, Cortes, Osunbunmi, Pauley, **Lee** (2024).  
+*Designing and evaluating VR applications for a machine design course.* **ASEE**  
+[DOI](https://doi.org/10.18260/1-2--47139)  
+Compared VR-enhanced instruction with traditional methods in a Machine Design course. Students using VR showed greater knowledge gains, confidence, and engagement.
 
-   Qualitative study - [**By students, for students: Development of custom Virtual Reality applications for teaching and learning in engineering courses**](https://mlee010.github.io/MinkyungLee/files/FIE_VR24.pdf) - Virtual reality (VR) offers great potential for enhancing engineering education, but developing custom applications remains a challenge. This study presents a solution where multidisciplinary student teams in senior design projects develop VR applications for teaching Machine Design in Penn State’s Mechanical Engineering program. Collaboration between Mechanical Engineering and Computer Science students, using Unity software and guided by instructors, led to the creation of immersive VR experiences such as fixing a hospital bed mechanism and time-traveling assembly tasks. Evaluations show improved student engagement and understanding. This scalable approach highlights the potential for broader use of VR in engineering education, fostering innovation and continuous improvement.
+**Qualitative study** – Cortes, Gregg, **Lee**, Pauley, Osunbunmi (2024).  
+*By students, for students: Development of custom VR applications for teaching and learning in engineering courses.* **FIE**  
+Describes multidisciplinary student teams creating VR modules (Unity) for machine design. The process fostered innovation and produced immersive learning tools.
 
+---
+
+These studies demonstrate the potential of VR and other interactive designs to improve engagement, conceptual understanding, and professional skill development in engineering education.
+0
 
   
 
