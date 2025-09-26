@@ -21,7 +21,9 @@ This research line investigates how **scripted roles** influence social connecti
   **Internet and Higher Education**  
   – Compares structured (role-assigned) and unstructured groups, revealing differences in reciprocity and patterns of elicitation and integration.
 
-![Reciprocity comparison](https://mlee010.github.io/MinkyungLee/images/DS1_reciprocity_image.png)
+<p><img src="https://mlee010.github.io/MinkyungLee/images/DS1_reciprocity_image.png"
+        alt="Reciprocity comparison"
+        style="max-width:100%; height:auto; display:block; margin:14px 0;"></p>
 
 ---
 
@@ -29,7 +31,9 @@ This research line investigates how **scripted roles** influence social connecti
   **International Journal of Computer-Supported Collaborative Learning (IJCSCL)**  
   – Maps each role (Moderator, Summarizer, Skeptic, Source Searcher, Theoretician) to distinct network positions and cognitive processes.
 
-![Role-based engagement and metrics](https://mlee010.github.io/MinkyungLee/images/DS2_role_image.png)
+<p><img src="https://mlee010.github.io/MinkyungLee/images/DS2_role_image.png"
+        alt="Role-based engagement and metrics"
+        style="max-width:100%; height:auto; display:block; margin:14px 0;"></p>
 
 ---
 
@@ -37,7 +41,10 @@ This research line investigates how **scripted roles** influence social connecti
   **Educational Technology Research & Development (ETR&D)** – post-dissertation extension  
   – Uses lightweight lexical features to predict roles (macro-F1 ≈ 0.86) and knowledge-construction processes (macro-F1 ≈ 0.82).
 
-![Machine learning performance metrics](https://mlee010.github.io/MinkyungLee/images/DS3_MLimage.png)
+<p><img src="https://mlee010.github.io/MinkyungLee/images/DS3_MLimage.png"
+        alt="Machine learning performance metrics"
+        style="max-width:100%; height:auto; display:block; margin:14px 0;"></p>
+
 
 ---
 
