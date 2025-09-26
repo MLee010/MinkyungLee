@@ -4,7 +4,7 @@ collection: portfolio
 permalink: /portfolio/knowledge-structures/
 excerpt: "Foundational work on how external concept structures shape individual knowledge and collaborative mapping."
 header:
-  teaser: /images/KS22_11423_2022_10144_Fig7_HTML.webp
+  teaser: /images/KS22_11423_2022_10144_Fig6_HTML.webp
 order: 1
 tags: [knowledge-structures, concept structural maps]
 ---
