@@ -1,5 +1,5 @@
 ---
-title: "Structured Roles in Collaborative Learning"
+title: "Structured Roles in Collaborative Learning(2020-2025)"
 collection: portfolio
 permalink: /portfolio/structured-roles/
 excerpt: "Dissertation line examining how predefined roles shape interaction networks and knowledge construction, followed by a machine-learning extension."
@@ -11,9 +11,7 @@ classes: wide
 ---
 
 ## Overview
-This research line investigates how **scripted roles** influence social connectivity and knowledge construction in asynchronous online courses.  
-Using **social network analysis (SNA)** and **content analysis (CA)**, the studies connect *who interacts with whom* to *how ideas are built*.  
-After the dissertation was completed, the work was extended with a machine-learning study that predicts roles and knowledge-construction processes directly from discussion text.
+This research line investigates how **scripted roles** influence social connectivity and knowledge construction in asynchronous online courses. Using **social network analysis (SNA)** and **content analysis (CA)**, the studies connect *who interacts with whom* to *how ideas are built*. After the dissertation was completed, the work was extended with a machine-learning study that predicts roles and knowledge-construction processes directly from discussion text.
 
 ---
 
