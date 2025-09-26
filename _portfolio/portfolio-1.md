@@ -12,13 +12,12 @@ tags: [knowledge-structures, concept structural maps]
 
 **Key paper**
 - *The influence of external concept structures on an individual’s knowledge structures.* **ETR&D** (2022). [DOI](http://dx.doi.org/10.1007/s11423-022-10144-6)
+![Example figure](https://mlee010.github.io/MinkyungLee/images/KS22_11423_2022_10144_Fig7_HTML.webp)
 
-**What this study did **
-- Based on a 2019 AECT poster; subsequently developed into a peer-reviewed empirical paper (submitted Feb 2021; published 2022).
-- Compared presentation formats and a card-sort task to see how they shape **knowledge organization**.
+- Compared presentation formats and a sorting task to see how they shape their knowledge structures.
 - Found improved comprehension in the text condition and distinct organization patterns across individuals and groups, suggesting instructional value of **external conceptual models**.
 
-![Example figure](https://mlee010.github.io/MinkyungLee/images/KS22_11423_2022_10144_Fig7_HTML.webp)
+
 
 **Related presentations (AECT 2019–2021)**
 - **2019 — Knowledge Structure (poster):** Visual external representations (e.g., cross-classification tables) and their role in organizing information.  
