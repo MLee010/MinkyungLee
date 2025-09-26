@@ -21,7 +21,7 @@ This research line investigates how **scripted roles** influence social connecti
   **Internet and Higher Education**  
   – Compares structured (role-assigned) and unstructured groups, revealing differences in reciprocity and patterns of elicitation and integration.
 
-![Reciprocity comparison]({{ '/images/DS1_reciprocity_image.png' | absolute_url }})
+![Reciprocity comparison](https://mlee010.github.io/MinkyungLee/images/DS1_reciprocity_image.png)
 
 ---
 
