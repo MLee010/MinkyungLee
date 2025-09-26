@@ -1,12 +1,55 @@
 ---
-title: "Exploring Knowledge Organization and Convergence: The Role of External Tools in Individual and Collaborative Learning"
-excerpt: "The first study(19AECT & 22ETR&D) explores how pre-established conceptual frameworks enhance individual comprehension and knowledge structuring, demonstrating that structured text formats improve learners' ability to organize information. The second study(21AECT) investigates collaborative concept mapping, revealing that while these tools support the organization of group knowledge, they do not automatically lead to deeper knowledge convergence without active interaction and negotiation. Together, these studies highlight the critical role of structured learning environments and tools in fostering both individual understanding and group-based knowledge construction, offering key insights for educational practices aimed at improving cognitive engagement and collaboration"
+title: "Social Network Analysis in Online Learning — Pilot (Method development)"
 collection: portfolio
+permalink: /portfolio/sna-methods/
+excerpt: "Method-development series using SNA (and, in one study, text features) to analyze interaction and engagement in online discussion."
+thumbnail: images/sna_readability_thumb.png
+order: 2
+tags: [learning-analytics, SNA, Louvain(community-detection), readability]
 ---
 
 
-1. [**19AECT_Knowledge Structure**](https://mlee010.github.io/MinkyungLee/files/19KS.pdf) - This study explores how visual representations aid in organizing and understanding information. It highlights the effectiveness of visual tools, such as cross-classification tables, in enhancing learning and memory retention.
-   
-2. [**22ETR&D Knowledge Structure**](https://link.springer.com/article/10.1007/s11423-022-10144-6) - Expanded from the 19AECT Poster and submitted in February 2021, this research examines how pre-established conceptual frameworks influence individuals' understanding. The study analyzed the impact of different information presentation methods on participants' knowledge structures. Participants engaged with different text formats and sorting tasks were conducted. Results indicated that those in the text group showed improved comprehension in follow-up tests. Additionally, the study revealed variations in knowledge organization across collective groups and individual networks. These findings underscore the importance of external conceptual models in guiding cognitive comprehension, suggesting their potential application in educational contexts.
 
-2. **[21AECT_Knowledge Convergence](https://mlee010.github.io/MinkyungLee/files/21KC.pdf)** ([Proceedings](https://mlee010.github.io/MinkyungLee/files/21KCproceeding.pdf)),[21AECT_Lexical Analysis](https://mlee010.github.io/MinkyungLee/files/21Lexical.pdf) - This study investigates how collaborative concept mapping tasks influence knowledge convergence among learners. Participants were divided into two groups: independent and interdependent, and their collaboration was analyzed through discourse. The study aimed to explore whether structured group work leads to deeper learning and knowledge sharing. The study found that collaborative concept mapping, while useful, did not lead to significant knowledge convergence in this context. The use of individual maps as a reference and reliance on tool functions reduced the need for in-depth discussions.
+**Scope (2021–2024).** A method-development series establishing practical ways to:
+- **Strand A — SNA-only:** detect emergent subgroups and examine cohesion using **Louvain/community detection** and local/global network metrics.
+- **Strand B — SNA + textual features:** relate **network positions** to **text accessibility/readability** and engagement patterns.
+
+> Note: “Pilot” refers here to *developing and validating the analytic approach*, not a feasibility test.
+
+**Key papers**
+- **Strand B (SNA + textual features):** *Beyond posting frequency: how network metrics and textual readability relate to engagement in online discussion.*  
+  *Interactive Learning Environments* (2025). [DOI](http://dx.doi.org/10.1080/10494820.2025.2550035)  :contentReference[oaicite:0]{index=0}
+- **Strand A (SNA-only: Louvain/community detection):** *Leveraging the Louvain algorithm for enhanced group formation and collaboration in online learning environments.*  
+  *International Journal of Educational Technology in Higher Education* (2024). [DOI](https://doi.org/10.1186/s41239-024-00495-w)
+  
+- **Related (in revision):** Sharma & Lee. *Quality of student cognitive engagement across different levels of social engagement.*
+
+<details><summary>Methods (click)</summary>
+**Global & local SNA:** density, centralization, clustering; community detection via **Louvain**; local cohesion (within-group density, triangles, clustering).  
+**Text features (Strand B only):** readability indices (Flesch, FKGL, Gunning Fog, SMOG).  
+**Role:** design, analysis, writing.
+</details>
+
+---
+
+### Open materials & slides
+- **Louvain / community detection** — Paper PDF & slides  
+  Slides: [23AERA — Community Detection Algorithm](https://mlee010.github.io/MinkyungLee/files/AERA23_Louvain.pdf)
+
+---
+
+### Related / adjacent works (CoI & sociograms)
+Use a Community of Inquiry(CoI) lens to interpret perceptions while still connecting to network visuals.
+
+- Lee & Clariana (in revision). *Implementing sociograms in online learning: examining their influence on Community of Inquiry elements.* *Learning Environments Research*.  
+  
+- **CoI perceptions:** [21AECT — Teaching/Cognitive Presence & satisfaction](https://mlee010.github.io/MinkyungLee/files/21Perception.pdf)
+Slides: [24AERA — Sociograms & CoI](https://mlee010.github.io/MinkyungLee/files/AERA24Sociogram.pdf)
+---
+
+### Overview
+Across course-scale discussion networks, **Strand A** shows that Louvain-identified subgroups display cohesive internal communication and stable interaction patterns useful for understanding collaboration at scale. **Strand B** links **network positions** with **text accessibility**, indicating that clearer writing often aligns with more central positions and broader engagement. Together, these strands provide practical analytics for interpreting participation and informing course design.
+
+
+
+
