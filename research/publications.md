@@ -5,7 +5,7 @@ permalink: /research/publications/
 ---
 
 ## Peer-Reviewed Journal Articles
-- **Lee, M.**, & Sharma, P. (2025). *Beyond posting frequency: How network metrics and textual readability relate to engagement in online discussion.* *Interactive Learning Environment (Q1) *. [DOI] (http://dx.doi.org/10.1080/10494820.2025.2550035) <img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/0ba9b0ac-240b-498a-bda8-e7eb575173a9" />
+- **Lee, M.**, & Sharma, P. (2025). *Beyond posting frequency: How network metrics and textual readability relate to engagement in online discussion.* *Interactive Learning Environment (Q1) *. <img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/0ba9b0ac-240b-498a-bda8-e7eb575173a9" />
 
 
 - **Lee, M.**, & Sharma, P. (2024). *Applying a community detection algorithm to examine group formation in online discussions.* *International Journal of Educational Technology in Higher Education (Q1).* [DOI](https://doi.org/10.1186/s41239-024-00495-w)
