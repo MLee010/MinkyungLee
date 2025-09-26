@@ -18,11 +18,7 @@ tags: [knowledge-structures, concept structural maps]
 - Compared presentation formats and a card-sort task to see how they shape **knowledge organization**.
 - Found improved comprehension in the text condition and distinct organization patterns across individuals and groups, suggesting instructional value of **external conceptual models**.
 
-<!-- Inline figure -->
-<p align="center">
-  <img src="/images/KS22_11423_2022_10144_Fig6_HTML.webp" alt="Example figure from ETR&D 2022 showing knowledge structure comparison" width="720">
-  <br><em>Figure: Example output comparing knowledge structure patterns across conditions.</em>
-</p>
+![Example figure](https://mlee010.github.io/MinkyungLee/images/KS22_11423_2022_10144_Fig7_HTML.webp)
 
 **Related presentations (AECT 2019–2021)**
 - **2019 — Knowledge Structure (poster):** Visual external representations (e.g., cross-classification tables) and their role in organizing information.  
