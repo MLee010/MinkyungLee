@@ -31,7 +31,7 @@ A method-development series establishing practical ways to:
 
 ---
 
-### slides
+### Slides
 - **Louvain / community detection** 
   Slides: [23AERA — Community Detection Algorithm](https://mlee010.github.io/MinkyungLee/files/AERA23_Louvain.pdf)
 
