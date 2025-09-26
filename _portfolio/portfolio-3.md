@@ -41,5 +41,3 @@ Together these studies:
 
 ---
 
-## Materials
-*(links can be added as papers move from review to publication)*
