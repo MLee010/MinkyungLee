@@ -4,7 +4,7 @@ collection: portfolio
 permalink: /portfolio/structured-roles/
 excerpt: "Dissertation line examining how predefined roles shape interaction networks and knowledge construction, followed by a machine-learning extension."
 thumbnail: /images/roles_bridge_thumb.png
-order: 3
+order: 2
 tags: [learning-analytics, social-network-analysis, collaborative-learning, roles, machine-learning]
 layout: single
 classes: wide
