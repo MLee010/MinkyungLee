@@ -1,5 +1,5 @@
 ---
-title: "Social Network Analysis in Online Learning — Pilot (Method development) (2021-2024)"
+title: "Social Network Analysis in Online Learning — Pilot (Method development) (2021-)"
 collection: portfolio
 permalink: /portfolio/sna-methods/
 excerpt: "Method-development series using SNA (and, in one study, text features) to analyze interaction and engagement in online discussion."
