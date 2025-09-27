@@ -4,7 +4,7 @@ collection: portfolio
 permalink: /portfolio/sna-methods/
 excerpt: "Method-development series using SNA (and, in one study, text features) to analyze interaction and engagement in online discussion."
 thumbnail: images/sna_readability_thumb.png
-order: 2
+order: 3
 tags: [learning-analytics, SNA, Louvain(community-detection), readability]
 ---
 
