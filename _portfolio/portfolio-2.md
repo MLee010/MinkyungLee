@@ -1,5 +1,5 @@
 ---
-title: "Structured Roles in Collaborative Learning(2020-2025)"
+title: "Structured Roles in Collaborative Learning(2020-)"
 collection: portfolio
 permalink: /portfolio/structured-roles/
 excerpt: "Dissertation line examining how predefined roles shape interaction networks and knowledge construction, followed by a machine-learning extension."
