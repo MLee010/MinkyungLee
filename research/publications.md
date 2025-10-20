@@ -16,7 +16,7 @@ permalink: /research/publications/
 - **Lee, M.**, & Clariana, R. (in revision). *Implementing sociograms in online learning: examining their influence on Community of Inquiry elements.* *Learning Environments Research.*
 
 ## Under Review
-- **Lee, M.**, & Bhati, D. (under review). *Making dropout risk transparent…* *International Journal of Educational Technology in Higher Education.*
+- **Lee, M.** (under review). *Making dropout risk transparent…* 
 - **Lee, M.**, Sharma, P., & Clariana, R. (under review). *Which roles bridge, centralize, or synthesize collaboration…* *Learning and Instruction.*
 - **Lee, M.**, Sharma, P., & Clariana, R. (under review). *When does structure matter?* *Internet and Higher Education.*
 - **Lee, M.**, Sharma, P., & Clariana, R. (under review). *Predicting assigned roles and knowledge-construction processes…* *Educational Technology Research and Development.*
