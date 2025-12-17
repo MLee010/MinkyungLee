@@ -2,6 +2,7 @@
 title: "Structuring High-Quality Online Discussions with Assigned Roles"
 collection: instructional_design
 excerpt: "Embedding lightweight role scaffolds into team-based online discussions to support participation, synthesis, and critique."
+permalink: /instructional-designs/sensemaking-concept-mapping/
 ---
 
 ### Course Context and Design Problem
