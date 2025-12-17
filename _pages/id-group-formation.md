@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Data-Informed Group Formation to Improve Collaboration"
+title: "Data-Informed Group Formation to Improve Seminar Collaboration"
 permalink: /id-group-formation/
 author_profile: true
 ---
