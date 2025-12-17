@@ -29,5 +29,5 @@ Teams with assigned roles demonstrated more distributed participation and cleare
 ### Design Reflection and Iteration
 Role clarity appeared to matter more than discussion length. Some roles required additional instructional support to balance cognitive demands. Overall, the framework proved adaptable to other online, team-based learning contexts as a lightweight scaffold for collaborative analysis.
 
-### Evidence
-- [View instructional design artifacts (PDF)](/files/WS_assignedroles.pdf)
+### Publications are under review
+- [View the details (PDF)](/files/WS_assignedroles.pdf)
