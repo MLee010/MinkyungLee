@@ -9,7 +9,7 @@ I design instructional interventions that structure collaboration and support de
 
 ### Selected Instructional Design Projects
 
-**[Designing Collaborative Sensemaking with Concept Mapping](/instructional_design/sensemaking-concept-mapping.html)**  
+**[Designing Collaborative Sensemaking with Concept Mapping](/instructional_design/sensemaking-concept-mapping)**  
 A two-step activity that moved students from individual concept mapping to group negotiation, supporting deeper explanation of relationships among complex concepts.  
 [Slides (PDF)](/files/WS_conceptMapping.pdf)
 
