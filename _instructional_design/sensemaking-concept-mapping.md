@@ -24,7 +24,8 @@ Students engaged actively in comparing and merging their individual understandin
 ### Design Reflection and Iteration
 Based on implementation, several refinements were identified. Pre-task workload can be reduced to avoid cognitive overload. Guiding questions (e.g., “Why are these concepts connected?”) can further support negotiation during group work. A brief post-activity reflection may help consolidate learning and encourage metacognitive awareness.
 
-### Evidence
-- [View instructional design artifacts (PDF)](/files/WS_conceptMapping.pdf)  
-- Related work: Proceedings of the 2021 AECT Conference :contentReference[oaicite:0]{index=0}
+### Related work
+- Open record of the 2021 AECT Convention Proceedings (ERIC): https://eric.ed.gov/?id=ED617428
+- Public copy of the specific paper (ResearchGate): https://www.researchgate.net/publication/363542434_Knowledge_Convergence_in_Collaborative_Concept_Mapping
+
 
