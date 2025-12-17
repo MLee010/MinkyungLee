@@ -5,7 +5,7 @@ permalink: /instructional-designs/
 author_profile: true
 collection: instructional_design
 ---
-I design instructional interventions that structure collaboration and support deeper sensemaking in online and seminar-based learning environments. The projects below summarize three related instructional design approaches that I have implemented and refined across graduate and undergraduate contexts.
+I design instructional interventions that structure collaboration and support deeper sensemaking in online and seminar-based learning environments. The projects below summarize three related instructional design approaches that I have implemented and refined across graduate and undergraduate contexts. 
 
 ### Selected Instructional Design Projects
 
