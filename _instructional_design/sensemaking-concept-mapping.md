@@ -2,6 +2,7 @@
 title: "Designing Collaborative Sensemaking with Concept Mapping"
 collection: instructional_design
 excerpt: "A structured individual–group concept mapping task designed to support negotiation of meaning and deeper understanding of complex concepts."
+permalink: /instructional-designs/sensemaking-concept-mapping/ 
 ---
 
 ### Course Context and Design Problem
