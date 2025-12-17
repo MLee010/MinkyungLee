@@ -1,7 +1,8 @@
 ---
 layout: single
 title: "Structuring High-Quality Online Discussions with Assigned Roles"
-permalink:/id-assigned-roles.md
+permalink: /id-assigned-roles/
+author_profile: true
 ---
 
 ### Course Context and Design Problem
