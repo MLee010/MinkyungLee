@@ -9,15 +9,15 @@ I design instructional interventions that structure collaboration and support de
 
 ### Selected Instructional Design Projects
 
-**[Designing Collaborative Sensemaking with Concept Mapping](/instructional-designs/sensemaking-concept-mapping/)**
+**[Designing Collaborative Sensemaking with Concept Mapping](/id-concept-mapping.md/)**
 A two-step activity that moved students from individual concept mapping to group negotiation, supporting deeper explanation of relationships among complex concepts.  
 [Slides (PDF)](/files/WS_conceptMapping.pdf)
 
-**[Structuring High-Quality Online Discussions with Assigned Roles](/instructional_design/assigned-roles.html)**  
+**[Structuring High-Quality Online Discussions with Assigned Roles](/id-assigned-roles.md/)**  
 Explicit role assignments (e.g., moderator, skeptic, summarizer) were used to guide peer interaction, leading to more distributed participation and clearer synthesis in online discussions.  
 [Slides (PDF)](/files/WS_assignedroles.pdf) :contentReference[oaicite:0]{index=0}
 
-**[Data-Informed Group Formation to Improve Seminar Collaboration](/instructional_design/data-informed-group-formation.html)**  
+**[Data-Informed Group Formation to Improve Seminar Collaboration](/id-assigned-roles.md/)**  
 Network-based grouping methods were used to form structurally balanced discussion groups, resulting in stronger reciprocity and reduced reliance on a single dominant voice.  
 [Slides (PDF)](/files/WS_GroupFormation.pdf) :contentReference[oaicite:1]{index=1}
 
