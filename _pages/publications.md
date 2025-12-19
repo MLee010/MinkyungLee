@@ -21,7 +21,7 @@ A two-step activity moving learners from individual concept mapping to group-bas
 **Impact**  
 Supported deeper explanation of conceptual relationships and promoted shared understanding.
 
-- 📄 [Slides (PDF)](/files/WS_conceptMapping.pdf)
+- 📄 [Slides (PDF)]({{ site.baseurl }}/files/WS_conceptMapping.pdf)
 
 ---
 
@@ -36,7 +36,7 @@ Explicitly assigned roles (e.g., Moderator, Skeptic, Summarizer) to guide peer i
 **Impact**  
 Led to more distributed participation and clearer patterns of critique and integration.
 
-- 📄 [Slides (PDF)](/files/WS_assignedroles.pdf)
+- 📄 [Slides (PDF)]({{ site.baseurl }}/files/WS_assignedroles.pdf)
 
 ---
 
@@ -51,4 +51,5 @@ Used network-informed grouping strategies to form structurally balanced discussi
 **Impact**  
 Improved reciprocity, reduced reliance on dominant voices, and supported sustained collaboration.
 
-- 📄 [Slides (PDF)](/files/WS_GroupFormation.pdf)
+- 📄 [Slides (PDF)]({{ site.baseurl }}/files/WS_GroupFormation.pdf)
+
