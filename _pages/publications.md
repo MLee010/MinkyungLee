@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 This page presents **selected instructional design work samples**.  
-These examples highlight representative projects and do not reflect the full scope of my instructional design work.
+These examples are representative and do not reflect the full scope of my instructional design work.
 
 ---
 
