@@ -15,8 +15,8 @@ A two-step activity that moved students from individual concept mapping to group
 
 **[Structuring High-Quality Online Discussions with Assigned Roles](/instructional_design/assigned-roles-online-discussions/)**  
 Explicit role assignments (e.g., moderator, skeptic, summarizer) were used to guide peer interaction, leading to more distributed participation and clearer synthesis in online discussions.
-[Slides (PDF)](/files/WS_assignedroles.pdf)
+[Slides (PDF)](../files/WS_assignedroles.pdf)
 
 **[Data-Informed Group Formation to Improve Seminar Collaboration](/instructional_design/data-informed-group-formation/)**  
 Network-based grouping methods were used to form structurally balanced discussion groups, resulting in stronger reciprocity and reduced reliance on a single dominant voice.
-[Slides (PDF)](/files/WS_GroupFormation.pdf)
+[Slides (PDF)](../files/WS_GroupFormation.pdf)
