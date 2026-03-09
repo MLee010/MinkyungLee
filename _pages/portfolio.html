@@ -8,14 +8,14 @@ classes: wide
 <section class="research-page">
 
   <p class="research-lead">
-    I study how participation structures and interaction patterns shape learning processes, using network analysis and computational approaches to examine engagement, knowledge construction, and student success across learning environments.
+    I study how interaction patterns and participation structures shape learning processes across collaborative and data-rich learning environments.
   </p>
 
   <p class="research-summary">
-    My work brings together collaborative learning research and learning analytics to understand how interaction data can reveal patterns of participation, learner roles, and engagement. Across a series of studies, I examine how these patterns emerge in learning environments and how they can inform the design, evaluation, and improvement of educational systems.
+    My research examines how learners participate, take on roles, and build knowledge through interaction. Using social network analysis and interpretable computational methods, I investigate how these patterns become visible in interaction data and how they relate to engagement, knowledge construction, and student success. Across this work, I use analytic evidence not only to understand learning processes, but also to inform the design and improvement of learning environments.
   </p>
 
-  <div class="research-flow">
+  <div class="research-flow" aria-label="Research flow">
     <span>Interaction</span>
     <span>Participation</span>
     <span>Roles</span>
@@ -24,55 +24,58 @@ classes: wide
     <span>Student Success</span>
   </div>
 
-  <section class="research-block">
-    <h2>Learning Processes in Collaborative Environments</h2>
-    <p>
-      I examine how collaborative learning unfolds through participation structures, discourse patterns, and learner roles. This line of research focuses on how learners contribute, respond to one another, and build knowledge through structured interaction in group learning environments.
-    </p>
-    <p>
-      Related work includes studies of structured roles in collaborative learning, knowledge construction in online discussions, and participation dynamics in collaborative settings.
-    </p>
-  </section>
+  <section class="selected-projects">
+    <h2>Selected Projects</h2>
 
-  <section class="research-block">
-    <h2>Interaction Data and Learning Analytics</h2>
-    <p>
-      A second line of my work investigates how interaction data can be used to understand patterns of participation and engagement in learning environments. Using approaches such as social network analysis and interpretable computational modeling, I study how interaction structures emerge and how they relate to learning processes and student success.
-    </p>
-    <p>
-      This includes research on network position, learner roles, interaction modeling, and analytic approaches that connect collaborative processes with broader indicators of engagement and persistence.
-    </p>
-  </section>
+    <div class="project-item">
+      <h3><a href="https://mlee010.github.io/MinkyungLee/portfolio/structured-roles/">Structured Roles in Collaborative Learning</a></h3>
+      <p>
+        Examines how assigned roles shape participation, interaction, and knowledge construction in collaborative learning environments.
+      </p>
+    </div>
 
-  <section class="research-block">
-    <h2>Design, Evaluation, and Learning Improvement</h2>
-    <p>
-      A third strand of my work applies insights from learning analytics to the design and evaluation of learning environments. This includes using analytic evidence to inform instructional design decisions, improve collaborative learning activities, and support systems that foster student engagement and success.
-    </p>
-    <p>
-      Rather than treating analytics as separate from design, I approach them as a way to better understand learning environments and guide their improvement.
-    </p>
+    <div class="project-item">
+      <h3><a href="https://mlee010.github.io/MinkyungLee/portfolio/sna-methods/">Social Network Analysis of Learning Interaction</a></h3>
+      <p>
+        Uses network-based approaches to analyze participation structures, interaction patterns, and engagement in online learning contexts.
+      </p>
+    </div>
+
+    <div class="project-item">
+      <h3><a href="https://mlee010.github.io/MinkyungLee/portfolio/knowledge-structures/">Knowledge Structures and Collaborative Meaning-Making</a></h3>
+      <p>
+        Investigates how learners organize ideas, construct shared understanding, and develop knowledge through collaborative activity.
+      </p>
+    </div>
+
+    <div class="project-item">
+      <h3><a href="https://mlee010.github.io/MinkyungLee/portfolio/institutional-analytics/">Learning Analytics for Engagement and Student Success</a></h3>
+      <p>
+        Extends interaction-focused analytics to broader questions of engagement, persistence, and student success across educational settings.
+      </p>
+    </div>
+
   </section>
 
 </section>
 
 <style>
 .research-page{
-  max-width: 980px;
+  max-width: 920px;
 }
 
 .research-lead{
-  font-size: 1.15rem;
+  font-size: 1.2rem;
   line-height: 1.8;
   margin-bottom: 1.2rem;
-  max-width: 920px;
+  max-width: 880px;
 }
 
 .research-summary{
   font-size: 1rem;
   line-height: 1.8;
   margin-bottom: 2rem;
-  max-width: 920px;
+  max-width: 880px;
   color: #444;
 }
 
@@ -80,41 +83,56 @@ classes: wide
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-  margin: 1.5rem 0 2.5rem 0;
-  padding: 0;
+  margin: 1.2rem 0 2.4rem 0;
 }
 
 .research-flow span{
   display: inline-block;
   padding: 8px 14px;
   border-radius: 999px;
-  background: #f3f7fb;
-  border: 1px solid #d8e5f0;
+  background: #f4f7fb;
+  border: 1px solid #d9e3ee;
   font-size: 0.95rem;
-  color: #2f5d7c;
+  color: #355c7d;
 }
 
-.research-block{
-  margin-bottom: 2.5rem;
-  padding-top: 0.2rem;
+.selected-projects{
+  margin-top: 0.5rem;
+}
+
+.selected-projects h2{
+  font-size: 1.35rem;
+  margin-bottom: 1.1rem;
+}
+
+.project-item{
+  padding: 1rem 0;
   border-top: 1px solid #ececec;
 }
 
-.research-block:first-of-type{
+.project-item:first-of-type{
   border-top: none;
+  padding-top: 0.2rem;
 }
 
-.research-block h2{
-  font-size: 1.35rem;
-  margin-bottom: 0.8rem;
-  margin-top: 0.6rem;
+.project-item h3{
+  font-size: 1.05rem;
+  margin-bottom: 0.35rem;
+  line-height: 1.4;
 }
 
-.research-block p{
-  font-size: 1rem;
-  line-height: 1.8;
-  margin-bottom: 0.9rem;
+.project-item h3 a{
+  text-decoration: none;
+}
+
+.project-item h3 a:hover{
+  text-decoration: underline;
+}
+
+.project-item p{
+  margin: 0;
+  font-size: 0.98rem;
+  line-height: 1.7;
   color: #333;
 }
 </style>
-
