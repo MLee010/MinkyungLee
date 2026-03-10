@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I’m Minkyung Lee, a Ph.D. graduate in Learning Design and Technology from Penn State University. I study how learners participate, interact, and build knowledge in collaborative and data-rich learning environments. My work brings together educational, social, and analytic perspectives to better understand learning processes and support more thoughtful design in higher education and digital learning contexts.
-Thank you for visiting.
+I’m Minkyung Lee, a Ph.D. graduate in Learning Design and Technology from Penn State University. As a researcher grounded in Learning, Design, and Technology (LDT), I work at the intersection of instructional design and learning analytics. My research examines how participation structures emerge in technology-mediated learning environments and how analytic approaches, including social network analysis and computational modeling, can help make those learning processes more visible and more useful for design.
+Thank you for visiting!
