@@ -5,205 +5,308 @@ layout: single
 classes: wide
 ---
 
-<section class="research-page">
-
-  <p class="research-lead">
-    I study how interaction patterns and participation structures shape learning processes in collaborative and data-rich learning environments.
-  </p>
-
-  <p class="research-summary">
-    My research examines how learners participate, take on roles, and build knowledge through interaction. Using social network analysis and interpretable computational methods, I investigate how these patterns become visible in interaction data and how they relate to engagement, knowledge construction, and student success. Across this work, I use analytic evidence not only to understand learning processes, but also to inform the design and improvement of learning environments.
-  </p>
-
-  <div class="research-flow" aria-label="Research flow">
-    <span>Interaction</span>
-    <span>Participation</span>
-    <span>Roles</span>
-    <span>Engagement</span>
-    <span>Knowledge Construction</span>
-    <span>Student Success</span>
-  </div>
-
-  <section class="trajectory-section">
-    <h2>Selected Publications by Research Trajectory</h2>
-
-    <div class="trajectory-block">
-      <h3>Knowledge Structures and Collaborative Meaning-Making</h3>
-      <p>
-        Early work in this area examined how learners organize ideas and develop shared understanding through external representations and collaborative concept mapping.
-      </p>
-      <ul>
-        <li>
-          Lee, M., &amp; Clariana, R. B. (2022). The influence of external concept structures on an individual’s knowledge structures.
-          <em>Educational Technology Research and Development, 70</em>(5), 1657–1674.
-        </li>
-        <li>
-          Lee, M., Garbrick, A., &amp; Clariana, R. (2021). Knowledge convergence in collaborative concept mapping.
-          <em>Association for Educational Communications &amp; Technology (AECT)</em>.
-        </li>
-        <li>
-          Lee, M., Garbrick, A., &amp; Clariana, R. (2021). Lexical network analysis on synchronous discussion.
-          <em>Association for Educational Communications &amp; Technology (AECT)</em>.
-        </li>
-      </ul>
-    </div>
-
-    <div class="trajectory-block">
-      <h3>Interaction Patterns and Participation Structures</h3>
-      <p>
-        This line of work investigates how group formation, network structure, and communication patterns shape participation and engagement in collaborative and online learning environments.
-      </p>
-      <ul>
-        <li>
-          Lee, M., &amp; Sharma, P. (2024). Applying a community detection algorithm to examine group formation in online discussions: Exploring network characteristics and dynamics.
-          <em>International Journal of Educational Technology in Higher Education</em>.
-        </li>
-        <li>
-          Lee, M., &amp; Sharma, P. (2025). Network structure and communication clarity as factors influencing engagement in asynchronous online discussions.
-          <em>Interactive Learning Environments</em>.
-        </li>
-        <li>
-          Lee, M., &amp; Clariana, R. (In Revision). Implementing sociograms in online learning: examining their influence on community of inquiry elements.
-          <em>Learning Environments Research</em>.
-        </li>
-        <li>
-          Sharma, P., &amp; Lee, M. (In Revision). The quality of student cognitive engagement across different levels of social engagement in online discussions.
-          <em>Education and Information Technologies</em>.
-        </li>
-      </ul>
-    </div>
-
-    <div class="trajectory-block">
-      <h3>Roles, Modeling, and Learning Analytics</h3>
-      <p>
-        More recent work extends interaction-focused research through role prediction, interpretable modeling, and learning analytics related to engagement and student success.
-      </p>
-      <ul>
-        <li>
-          Lee, M., Sharma, P., &amp; Clariana, R. (In Revision). Predicting assigned roles and knowledge-construction processes in asynchronous discussion: A course-scale feasibility study.
-          <em>Educational Technology Research and Development</em>.
-        </li>
-        <li>
-          Lee, M., Sharma, P., &amp; Clariana, R. (Under Review). Which roles bridge, centralize, or synthesize collaboration in online courses? Linking network metrics with knowledge construction in asynchronous discussions.
-          <em>International Journal of Computer-Supported Collaborative Learning</em>.
-        </li>
-        <li>
-          Lee, M., Sharma, P., &amp; Clariana, R. (Under Review). When does structure matter? Social and cognitive outcomes in role-assigned vs. organic online groups.
-          <em>Learning and Instruction</em>.
-        </li>
-        <li>
-          Lee, M., &amp; Tiwari, A. (Under Review). Beyond the black box: interpretable early-warning signals from first-year academic and support transitions.
-          <em>Journal of Learning Analytics</em>.
-        </li>
-      </ul>
-    </div>
-  </section>
-
-  <section class="project-links">
-    <h2>Related Project Pages</h2>
-    <ul>
-      <li><a href="https://mlee010.github.io/MinkyungLee/portfolio/knowledge-structures/">Knowledge Structures</a></li>
-      <li><a href="https://mlee010.github.io/MinkyungLee/portfolio/sna-methods/">Social Network Analysis</a></li>
-      <li><a href="https://mlee010.github.io/MinkyungLee/portfolio/structured-roles/">Structured Roles in Collaborative Learning</a></li>
-      <li><a href="https://mlee010.github.io/MinkyungLee/portfolio/institutional-analytics/">Learning Analytics and Student Success</a></li>
-    </ul>
-  </section>
-
-</section>
-
 <style>
-.research-page{
-  max-width: 940px;
+.research-page {
+  max-width: 1100px;
+  margin: 0 auto;
 }
 
-.research-lead{
-  font-size: 1.2rem;
+.research-lead {
+  font-size: 1.15rem;
   line-height: 1.8;
-  margin-bottom: 1.1rem;
-  max-width: 900px;
+  margin-bottom: 1.2rem;
 }
 
-.research-summary{
+.research-summary {
   font-size: 1rem;
-  line-height: 1.8;
-  margin-bottom: 2rem;
-  max-width: 900px;
+  line-height: 1.85;
   color: #444;
+  margin-bottom: 2rem;
 }
 
-.research-flow{
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin: 1.2rem 0 2.5rem 0;
+.research-figure {
+  margin: 2rem 0 2.5rem;
+  text-align: center;
 }
 
-.research-flow span{
-  display: inline-block;
-  padding: 8px 14px;
-  border-radius: 999px;
-  background: #f4f7fb;
-  border: 1px solid #d9e3ee;
+.research-figure img {
+  width: 100%;
+  max-width: 1100px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+
+.research-caption {
   font-size: 0.95rem;
-  color: #355c7d;
+  color: #666;
+  margin-top: 0.8rem;
 }
 
-.trajectory-section{
-  margin-top: 0.5rem;
+.trajectory-section {
+  margin-top: 2.5rem;
 }
 
-.trajectory-section h2,
-.project-links h2{
-  font-size: 1.35rem;
-  margin-bottom: 1rem;
+.trajectory-block {
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e5e5e5;
 }
 
-.trajectory-block{
-  padding: 1.1rem 0 1.4rem 0;
-  border-top: 1px solid #ececec;
+.trajectory-block:last-child {
+  border-bottom: none;
 }
 
-.trajectory-block:first-of-type{
-  border-top: none;
-  padding-top: 0.2rem;
+.trajectory-label {
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #2f5ea8;
+  margin-bottom: 0.35rem;
 }
 
-.trajectory-block h3{
-  font-size: 1.08rem;
+.trajectory-title {
+  font-size: 1.4rem;
   margin-bottom: 0.5rem;
-  line-height: 1.4;
 }
 
-.trajectory-block p{
-  margin: 0 0 0.8rem 0;
-  font-size: 0.98rem;
+.trajectory-focus {
+  color: #555;
+  margin-bottom: 1rem;
   line-height: 1.75;
-  color: #333;
 }
 
-.trajectory-block ul{
-  margin: 0;
-  padding-left: 1.2rem;
+.evidence-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
 }
 
-.trajectory-block li{
+.evidence-box {
+  border: 1px solid #e3e6eb;
+  border-radius: 10px;
+  padding: 0.9rem 1rem;
+  background: #fafbfc;
+}
+
+.evidence-box summary {
+  cursor: pointer;
+  font-weight: 700;
   margin-bottom: 0.6rem;
+}
+
+.evidence-box ol {
+  margin: 0.8rem 0 0 1.1rem;
+}
+
+.evidence-box li {
+  margin-bottom: 0.75rem;
   line-height: 1.7;
 }
 
-.project-links{
-  margin-top: 2.2rem;
-  padding-top: 1.4rem;
-  border-top: 1px solid #ececec;
-}
-
-.project-links ul{
-  margin: 0;
-  padding-left: 1.2rem;
-}
-
-.project-links li{
-  margin-bottom: 0.5rem;
-  line-height: 1.6;
+@media (max-width: 800px) {
+  .evidence-grid {
+    grid-template-columns: 1fr;
+  }
 }
 </style>
+
+<section class="research-page">
+
+  <p class="research-lead">
+    My work is driven by a sustained interest in how learning is structured and how those structures can be made visible analytically.
+    I first examined how external representations influence learners’ knowledge structures and comprehension, then expanded this perspective
+    to collaborative learning, where I studied how social roles, interaction patterns, and network positions shape participation and knowledge construction.
+    More recently, I have incorporated interpretable machine learning and large-scale educational data analysis to explore whether these learning-relevant
+    patterns can be detected computationally and examined at broader scale. Across these lines of work, I am increasingly concerned with a question that has
+    become especially important in the AI era: how to take advantage of computational scale and automation without losing the learning context, interpretive
+    depth, and educational meaning that those analyses are meant to support.
+  </p>
+
+  <figure class="research-figure">
+    <img src="{{ '/assets/images/research_program_image4website.png' | relative_url }}" alt="Research trajectory flowchart">
+    <figcaption class="research-caption">
+      From knowledge structure and collaborative knowledge construction to interpretable computational modeling and learning-relevant analytics at scale.
+    </figcaption>
+  </figure>
+
+  <section class="trajectory-section">
+    <h2>Evidence Across the Research Trajectory</h2>
+
+    <div class="trajectory-block">
+      <div class="trajectory-label">Stage 1</div>
+      <div class="trajectory-title">Knowledge Structure &amp; Comprehension</div>
+      <p class="trajectory-focus">
+        How learners organize knowledge and make sense of external representations.
+      </p>
+
+      <div class="evidence-grid">
+        <details class="evidence-box">
+          <summary>Publications</summary>
+          <ol>
+            <li>
+              Lee, M., Clariana, R. B. (2022). <em>The influence of external concept structures on an individual’s knowledge structures.</em>
+              <em>Educational Technology Research and Development</em>, 70(5), 1657–1674.
+              <a href="http://dx.doi.org/10.1007/s11423-022-10144-6" target="_blank">DOI</a>
+            </li>
+          </ol>
+        </details>
+
+        <details class="evidence-box">
+          <summary>Presentations</summary>
+          <ol>
+            <li>
+              Lee, M., Clariana, R. (2019, November). <em>Knowledge structure measurement of cross-classification table as a visual external representation.</em>
+              Accepted as a poster, AECT, Las Vegas.
+            </li>
+          </ol>
+        </details>
+      </div>
+    </div>
+
+    <div class="trajectory-block">
+      <div class="trajectory-label">Stage 2</div>
+      <div class="trajectory-title">Collaborative Knowledge Construction</div>
+      <p class="trajectory-focus">
+        How roles, interaction patterns, and network structures shape participation and knowledge construction in online environments.
+      </p>
+
+      <div class="evidence-grid">
+        <details class="evidence-box">
+          <summary>Publications &amp; Manuscripts</summary>
+          <ol>
+            <li>
+              Lee, M., Sharma, P. (2025). <em>Network structure and communication clarity as factors influencing engagement in asynchronous online discussions.</em>
+              <em>Interactive Learning Environments</em>.
+              <a href="http://dx.doi.org/10.1080/10494820.2025.2550035" target="_blank">DOI</a>
+            </li>
+            <li>
+              Lee, M., Sharma, P. (2024). <em>Applying a community detection algorithm to examine group formation in online discussions: Exploring network characteristics and dynamics.</em>
+              <em>International Journal of Educational Technology in Higher Education</em>.
+              <a href="https://doi.org/10.1186/s41239-024-00495-w" target="_blank">DOI</a>
+            </li>
+            <li>
+              Lee, M., Clariana, R. (In Revision). <em>Implementing sociograms in online learning: examining their influence on community of inquiry elements.</em>
+              <em>Learning Environment Research</em>.
+            </li>
+            <li>
+              Lee, M., Sharma, P., Clariana, R. (Under Review). <em>Which roles bridge, centralize, or synthesize collaboration in online courses? Linking network metrics with knowledge construction in asynchronous discussions.</em>
+              <em>International Journal of Computer-Supported Collaborative Learning</em>.
+            </li>
+            <li>
+              Lee, M., Sharma, P., Clariana, R. (Under Review). <em>When does structure matter? Social and cognitive outcomes in role-assigned vs. organic online groups.</em>
+              <em>Learning and Instruction</em>.
+            </li>
+            <li>
+              Sharma, P., Lee, M. (In Revision). <em>The quality of student cognitive engagement across different levels of social engagement in online discussions.</em>
+              <em>Education and Information Technologies</em>.
+            </li>
+          </ol>
+        </details>
+
+        <details class="evidence-box">
+          <summary>Presentations</summary>
+          <ol>
+            <li>Lee, M., Sharma, P. (2023, April). <em>Applying community detection algorithms to examine group formation in online discussions.</em> AERA, Chicago.</li>
+            <li>Lee, M., Sharma, P. (2022, October). <em>Applying the Louvain algorithm to examine emergent groups in asynchronous online discussion.</em> College of Education Research Conference.</li>
+            <li>Lee, M., Clariana, R. (2024, April). <em>Implementing sociograms in online learning: examining their influences on community of inquiry elements.</em> AERA, Philadelphia.</li>
+            <li>Lee, M. (2020, November). <em>Social network analysis on online collaborative knowledge construction.</em> AECT, Virtual.</li>
+            <li>Lee, M., Garbrick, A., Clariana, R. (2021, November). <em>Knowledge convergence in collaborative concept mapping.</em> AECT, Chicago.</li>
+            <li>Lee, M., Garbrick, A., Clariana, R. (2021, November). <em>Lexical network analysis on synchronous discussion.</em> AECT, Chicago.</li>
+            <li>Lee, M., Clariana, R. (2021, November). <em>Students’ perceptions in online courses with the Community of Inquiry Framework.</em> AECT, Chicago.</li>
+          </ol>
+        </details>
+      </div>
+    </div>
+
+    <div class="trajectory-block">
+      <div class="trajectory-label">Stage 3</div>
+      <div class="trajectory-title">Interpretable Computational Modeling</div>
+      <p class="trajectory-focus">
+        Whether meaningful learning-related patterns can be identified through machine learning while remaining educationally interpretable.
+      </p>
+
+      <div class="evidence-grid">
+        <details class="evidence-box">
+          <summary>Publications &amp; Manuscripts</summary>
+          <ol>
+            <li>
+              Lee, M., Sharma, P., Clariana, R. (In Revision). <em>Predicting assigned roles and knowledge-construction processes in asynchronous discussion: a course-scale feasibility study.</em>
+              <em>Educational Technology Research and Development</em>.
+            </li>
+          </ol>
+        </details>
+
+        <details class="evidence-box">
+          <summary>Presentations</summary>
+          <ol>
+            <li>
+              Lee, M., Sharma, P. (2025, April). <em>Predicting roles and knowledge construction processes in asynchronous discussion using machine learning.</em> AERA, 2025.
+            </li>
+          </ol>
+        </details>
+      </div>
+    </div>
+
+    <div class="trajectory-block">
+      <div class="trajectory-label">Stage 4</div>
+      <div class="trajectory-title">Learning-Relevant Analytics at Scale</div>
+      <p class="trajectory-focus">
+        How broader student pathways and support transitions can be analyzed computationally without losing interpretability or educational meaning.
+      </p>
+
+      <div class="evidence-grid">
+        <details class="evidence-box">
+          <summary>Publications &amp; Manuscripts</summary>
+          <ol>
+            <li>
+              Lee, M., Tiwari, A. (Under Review). <em>Beyond the black box: interpretable early-warning signals from first-year academic and support transitions.</em>
+              <em>Journal of Learning Analytics</em>.
+            </li>
+          </ol>
+        </details>
+
+        <details class="evidence-box">
+          <summary>Presentations</summary>
+          <p>No conference presentation currently listed for this stage.</p>
+        </details>
+      </div>
+    </div>
+
+    <div class="trajectory-block">
+      <div class="trajectory-label">Adjacent Work</div>
+      <div class="trajectory-title">Applied and Collaborative Extensions</div>
+      <p class="trajectory-focus">
+        Projects in engineering education, VR, active learning, and professional development that extend this work into adjacent learning contexts.
+      </p>
+
+      <div class="evidence-grid">
+        <details class="evidence-box">
+          <summary>Publications &amp; Development Work</summary>
+          <ol>
+            <li>
+              Xia, Y., Cutler, S., Osunbunmi, I., Zappe, S. E., Gomez, E., Velegol, S., &amp; Lee, M. (2024).
+              <em>The impact of applied improvisation on undergraduate engineering students’ professional development.</em>
+              <em>Advances in Engineering Education</em>.
+              <a href="https://doi.org/10.18260/3-1-1153-36069" target="_blank">DOI</a>
+            </li>
+            <li>Jeong, J. &amp; Lee, M. (2017). <em>Hanyang MOOC Flipped learning guidebook.</em> Hanyang University, Seoul.</li>
+            <li>Lee, M., Garbrick, A., Clariana, R. (2021). <em>Knowledge convergence in collaborative concept mapping.</em> AECT Selected Research and Development Papers, 106–120.</li>
+          </ol>
+        </details>
+
+        <details class="evidence-box">
+          <summary>Presentations</summary>
+          <ol>
+            <li>Cortes, D., Gregg, A., Lee, M., Pauley, L., Osunbunmi, I. (2024, October). <em>By students, for students: development of custom virtual reality applications for teaching and learning in engineering courses.</em> FIE.</li>
+            <li>Gregg, A., Cortes, D., Osunbunmi, I. S., Pauley, L. L., Lee, M. (2024, June). <em>Designing and evaluating virtual reality applications for a machine design course.</em> ASEE. <a href="https://doi.org/10.18260/1-2--47139" target="_blank">DOI</a></li>
+            <li>Lee, M., Cutler, S., Zappe, S. E., Spiegel, S., Osunbunmi, I. S. (2024, June). <em>Student preferences and performance in active learning online environments.</em> ASEE. <a href="https://doi.org/10.18260/1-2--48018" target="_blank">DOI</a></li>
+            <li>Clariana, R., Lee, M. (2022, October). <em>An OER tool for writing-to-learn in undergraduate architectural engineering.</em> College of Education Research Conference.</li>
+          </ol>
+        </details>
+      </div>
+    </div>
+
+  </section>
+</section>
