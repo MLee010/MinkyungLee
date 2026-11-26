@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I’m Minkyung Lee. I study how the design of a learning activity shapes what students understand and how they build on one another’s ideas. In my research on online discussions, I trace who replies to whom and read those exchanges to see how students question, explain, and revise ideas. I also study how visual representations, such as diagrams and tables, shape learners’ understanding of relationships among concepts.
+I’m Minkyung Lee, a researcher and educator in Learning, Design, and Technology. I earned my Ph.D. from Penn State University in 2025 and currently teach as an adjunct instructor at the University of Houston–Downtown. In December 2026, I will begin a postdoctoral research appointment at the University of Georgia, working with collaborators at Emory University on career and workforce development in translational sciences.
 
-I earned my Ph.D. in Learning, Design, and Technology at Penn State. At the University of Houston–Downtown, I teach [Assessment and Evaluation of Children]({{ '/teaching/' | relative_url }}). My appointment as a Postdoctoral Research Associate at the University of Georgia’s Biomedical & Translational Sciences Institute begins December 1, 2026. I will work with Dr. Ikseon Choi at Emory University on career and workforce development in the translational sciences.
+My research examines how the structures of learning environments shape what learners understand, how they participate, and how they construct knowledge together. I study instructional representations, collaborative learning design, and patterns of interaction using social network analysis, discourse analysis, learning analytics, and interpretable machine learning. I am particularly interested in connecting computational findings with learning theory and instructional design decisions.
+
+I am extending this work to AI-mediated learning environments, focusing on how AI-generated representations and learner–AI interactions shape understanding and knowledge construction.
+
+My teaching and instructional design work complements these research interests. You can explore my [selected instructional design projects]({{ site.baseurl }}/publications/) for examples of how I translate research into learning activities and environments.

@@ -1,0 +1,5 @@
+Learner ID,Q1 response,Q2 response,Q3 response,Q1 score,Q2 score,Q3 score,Total correct
+S01,B,B,B,1,0,0,1
+S02,B,A,A,1,1,0,2
+S03,B,A,C,1,1,1,3
+S04,C,A,C,0,1,1,2
