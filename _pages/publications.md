@@ -5,7 +5,38 @@ permalink: /publications/
 author_profile: true
 ---
 
-My instructional design work connects learning theory, research evidence, and practical design decisions. The following selected projects illustrate how I design learning activities to support understanding, participation, and collaborative knowledge construction.
+My instructional design work connects learning theory, research evidence, and practical design decisions. The following selected projects illustrate how I design courses, assessments, collaborative learning activities, and interactive digital learning materials to support understanding, participation, and knowledge construction.
+
+---
+
+## Redesigning an Online Assessment Course
+
+*Course and assessment design · Assessment and Evaluation of Children · University of Houston–Downtown · 2026 · Canvas*
+
+**Context & Design Challenge**
+
+An existing fully online, asynchronous undergraduate course needed a more coherent learner pathway, clearer assessment expectations, and alignment among instructional activities, assignments, and rubrics. The redesign also considered assessment validity in the context of generative AI.
+
+**My Role**
+
+As the adjunct instructor, reviewed and redesigned course components, including module sequences, learner-facing directions, assessment scaffolds, rubrics, and assignment-level guidance on AI use.
+
+**Design Approach & Rationale**
+
+- Reorganized the weekly learning sequence and reviewed the timing and purpose of recurring activities.
+- Connected assessment design, simulated learner responses, item analysis, and evidence-informed revision across the Midterm and Final Project.
+- Clarified what students should demonstrate independently and incorporated scaffolds and process evidence where appropriate.
+
+**Evidence & Reflection**
+
+The redesign produced revised course structures, assessment instructions, rubrics, and a simulated response-data template with a worked example. These artifacts demonstrate design decisions and alignment with learning goals; formal effects on student learning have not been established.
+
+**Selected Design Artifacts**
+
+- [View UHD Course Redesign — visual web work sample]({{ site.baseurl }}/learning-design/uhd-assessment/)
+- [Simulated learner response example (CSV)]({{ site.baseurl }}/files/UHD_simulated_response_example.csv)
+
+*The web work sample reconstructs the design process and uses fictional learner data. It does not reproduce institutional course content verbatim.*
 
 ---
 
@@ -86,3 +117,15 @@ The project produced network-informed group assignments, network visualizations,
 
 - [Data-Informed Group Formation — Design Work Sample (PDF)]({{ site.baseurl }}/files/WS_GroupFormation.pdf)
 - [Related research: Leveraging the Louvain algorithm for enhanced group formation and collaboration in online learning environments](https://doi.org/10.1186/s41239-024-00495-w)
+
+---
+
+## Interactive eLearning Sample
+
+*Digital learning development · Articulate 360*
+
+An interactive digital learning sample from my instructional design portfolio, shared through Articulate 360. 
+
+**Selected Design Artifact**
+
+- [View interactive Articulate sample](https://share.articulate.com/X4XOBZx34qip453i7Qj2x)
