@@ -1,0 +1,87 @@
+---
+layout: single
+title: "UHD Course Redesign"
+permalink: /learning-design/uhd-assessment/
+author_profile: true
+---
+
+<style>
+.uhd-sample { line-height: 1.65; }
+.uhd-sample .meta { color: #516272; font-size: .9em; }
+.uhd-sample .lead { border-left: 4px solid #315b80; padding: .65em 1em; background: #f1f5f9; }
+.uhd-sample .steps { display: grid; grid-template-columns: repeat(5,minmax(0,1fr)); gap: .6em; margin: 1em 0; }
+.uhd-sample .step { border: 1px solid #cbd9e4; border-top: 3px solid #315b80; border-radius: 5px; background: #f7fafc; padding: .65em; font-size: .82em; overflow-wrap: anywhere; }
+.uhd-sample .step strong { display: block; color: #233e56; margin-bottom: .35em; }
+.uhd-sample .scroll-table { overflow-x: auto; }
+.uhd-sample table { width: 100%; font-size: .85em; }
+.uhd-sample .scroll-table table { min-width: 460px; }
+.uhd-sample th { text-align: left; background: #e8eff6; color: #233e56; }
+.uhd-sample td,.uhd-sample th { padding: .65em; vertical-align: top; }
+.uhd-sample h2 { margin-top: 1.6em; color: #233e56; }
+@media(max-width: 750px){.uhd-sample .steps {grid-template-columns: 1fr 1fr;}}
+@media(max-width: 400px){.uhd-sample .steps {grid-template-columns: 1fr;}}
+</style>
+
+<div class="uhd-sample">
+<p><strong>Assessment and Evaluation of Children</strong></p>
+<p class="meta">University of Houston–Downtown · 2026 · Canvas · Fully online, asynchronous undergraduate course<br>Role: Adjunct Instructor / Course Designer</p>
+<p class="lead">This work sample reconstructs selected design decisions from the redesign of an existing course. It does not reproduce institutional course content verbatim or include student information.</p>
+
+<h2>01. Course Review and Redesign</h2>
+<p>I reviewed the course from the learner’s perspective, examined alignment among activities and assessments, addressed unnecessary friction, and considered whether assessment tasks could still reveal student thinking when generative AI was available.</p>
+<div class="scroll-table"><table>
+<thead><tr><th scope="col">Design challenge</th><th scope="col">Design decision</th><th scope="col">Redesigned state</th></tr></thead>
+<tbody>
+<tr><td>Fragmented weekly learning path</td><td>Standardize the sequence of weekly learning activities.</td><td>More consistent module rhythm and clearer relationships among activities, assignments, and deadlines.</td></tr>
+<tr><td>Expectations spread across instructions and rubrics</td><td>Bring criteria closer to the task and strengthen scaffolding.</td><td>Clearer directions, rubric language, checkpoints, and learner-facing guidance.</td></tr>
+<tr><td>Discussion and optional work disconnected from the learning sequence</td><td>Clarify the purpose of each activity.</td><td>Activities positioned more intentionally within the module.</td></tr>
+<tr><td>Inherited materials and clustered deadlines</td><td>Review content for relevance and redistribute deadlines where needed.</td><td>More coherent course content and workload sequence.</td></tr>
+<tr><td>AI-generated products may conceal student reasoning</td><td>Clarify independent work expectations and incorporate process evidence where appropriate.</td><td>Assessment criteria emphasize student judgment, reasoning, and application.</td></tr>
+</tbody></table></div>
+
+<h2>02. Representative Weekly Module Structure</h2>
+<div class="steps">
+<div class="step"><strong>Start</strong>Weekly overview and expectations</div>
+<div class="step"><strong>Learn</strong>Readings, media, and core content</div>
+<div class="step"><strong>Practice</strong>Scaffold or low-stakes checkpoint</div>
+<div class="step"><strong>Demonstrate</strong>Assignment, criteria, and AI-use guidance</div>
+<div class="step"><strong>Reflect / Discuss</strong>Reflection or discussion tied to the learning goal</div>
+</div>
+<p class="meta">Design rationale: A consistent sequence is intended to reduce navigation effort and keep attention on the learning task.</p>
+
+<h2>03. Connecting Assessment Design and Analysis</h2>
+<p>The assessment project sequence links the Midterm and Final Project. Students construct a classroom assessment, simulate plausible learner responses, analyze the resulting data, and use the evidence to revise assessment items.</p>
+<ol>
+<li><strong>Design:</strong> Develop classroom assessment items and an answer key.</li>
+<li><strong>Simulate:</strong> Generate responses from fictional learners with different patterns of understanding.</li>
+<li><strong>Analyze:</strong> Calculate item difficulty and discrimination for at least five items and estimate reliability across the full assessment, using KR-20 for dichotomously scored items where appropriate.</li>
+<li><strong>Revise:</strong> Identify at least two items to improve and justify each revision using the analysis.</li>
+</ol>
+<h3>Worked example: simulated response data</h3>
+<p>This reconstructed example illustrates the scoring process using three Grade 3 place-value items. It contains only fictional responses.</p>
+<div class="scroll-table"><table>
+<thead><tr><th scope="col">Learner</th><th scope="col">Q1 response</th><th scope="col">Q2 response</th><th scope="col">Q3 response</th><th scope="col">Q1 score</th><th scope="col">Q2 score</th><th scope="col">Q3 score</th><th scope="col">Total</th></tr></thead>
+<tbody>
+<tr><td>S01</td><td>B</td><td>B</td><td>B</td><td>1</td><td>0</td><td>0</td><td>1</td></tr>
+<tr><td>S02</td><td>B</td><td>A</td><td>A</td><td>1</td><td>1</td><td>0</td><td>2</td></tr>
+<tr><td>S03</td><td>B</td><td>A</td><td>C</td><td>1</td><td>1</td><td>1</td><td>3</td></tr>
+<tr><td>S04</td><td>C</td><td>A</td><td>C</td><td>0</td><td>1</td><td>1</td><td>2</td></tr>
+</tbody></table></div>
+<p class="meta">Answer key: B, A, C. Scores indicate correct (1) or incorrect (0) responses. The full student project uses the learners’ own assessment items and simulated data; this three-item example illustrates scoring only.</p>
+<p><a href="{{ site.baseurl }}/files/UHD_simulated_response_example.csv" download>Download reconstructed response-data example (CSV)</a></p>
+
+<h2>04. Assessment Design in the GenAI Era</h2>
+<p>The focus of the AI-related redesign was assessment validity and student thinking. AI guidance was considered in relation to the learning target and the evidence that students needed to produce independently.</p>
+<div class="scroll-table"><table>
+<thead><tr><th scope="col">Design question</th><th scope="col">Design response</th></tr></thead>
+<tbody>
+<tr><td>Could AI generate the final product without the intended reasoning?</td><td>Add meaningful process evidence, a rationale, or a different task structure where needed.</td></tr>
+<tr><td>Could AI support the task without replacing the learning target?</td><td>Clarify permitted use at the point of the assignment.</td></tr>
+<tr><td>Does the rubric reward polish more than thinking?</td><td>Emphasize reasoning, application, and evidence of process where relevant.</td></tr>
+<tr><td>Will additional scaffolding reveal learning or simply add steps?</td><td>Use checkpoints and templates selectively.</td></tr>
+</tbody></table></div>
+
+<h2>05. Design Reflection</h2>
+<p>This sample demonstrates how course review was translated into changes to structure, sequencing, assessment instructions, rubrics, and scaffolds. It documents the design rationale and redesigned materials, not a formal evaluation of effects on student learning.</p>
+<p><a href="{{ site.baseurl }}/publications/">Return to the instructional design portfolio</a></p>
+</div>
