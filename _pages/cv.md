@@ -10,6 +10,8 @@ redirect_from:
 **Minkyung Lee, Ph.D.**  
 [Email](mailto:minklee010@gmail.com) · Updated November 2026
 
+<a href="{{ site.baseurl }}/files/Minkyung_Lee_CV_November_2026.pdf" class="btn btn--primary" download="Minkyung_Lee_CV_November_2026.pdf">Download CV (PDF)</a>
+
 ## Research Profile
 
 My research examines how the design and structure of learning environments shape understanding, participation, and knowledge construction. My work connects external representations, collaborative interaction, and instructional design with social network analysis, discourse/content analysis, mixed methods, and interpretable computational approaches. Building on this foundation, I am developing a research agenda on AI-supported learning, with particular interest in AI-generated representations and learner–AI interaction.
